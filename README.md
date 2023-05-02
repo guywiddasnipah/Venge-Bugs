@@ -11,5 +11,5 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
  
 Thanks to all fellow Bug Hunters from the community!
 
-**> [R7AN?](https://discordapp.com/users/735582210895249410)**
+**> R7AN?**
 
