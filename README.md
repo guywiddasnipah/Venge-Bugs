@@ -6,4 +6,4 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
  **For any questions/feedback/reports/additions to the list DM me on Discord.**
 
 
- **List created by [Vance Y.#1008](https://discordapp.com/users/694164511011110972).**
+ **List created and managed by [Vance Y.#1008](https://discordapp.com/users/694164511011110972).**
