@@ -7,3 +7,9 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
 
 
  **List created and managed by [Vance Y.#1008](https://discordapp.com/users/694164511011110972).**
+ 
+ 
+Thanks to all fellow Bug Hunters from the community!
+
+**> [R7AN?](https://discordapp.com/users/735582210895249410)**
+
