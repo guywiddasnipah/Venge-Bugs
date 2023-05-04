@@ -20,9 +20,9 @@
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.
 🔳 If you visit Shop/Leaderboard/Account/Settings and then come back to main menu, sometimes your equipped skin doesn't get applied. 
 🔳 Custom match issues, if you don't join within 10 secs of creating a match then you get the alert "Session is not available!".
+🔳 Daily Rewards alert "You already claimed your daily reward!" keeps popping up after every refresh.
+🔳 You can claim daily rewards even without watching its advert.
 🔳 
-🔳
-🔳
 🔳
 🔳
 🔳
@@ -47,7 +47,7 @@ General
 🔳 Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc. (attach multiple ss shortened iili)
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).
-🔳
+🔳 Respawning after getting killed takes a very long time (about 10 seconds).
 🔳
 🔳
 🔳
@@ -145,7 +145,7 @@ Heroes : Kulu
 
 ----- Social Hub -----
 
-🔳
+🔳 For banned or inexistent profiles the "Account is unavailable" alert doesn't show anymore. Its just a blank profile with no stats.
 🔳
 🔳
 🔳
