@@ -64,6 +64,19 @@ Heroes : Kulu
 🔳 Boxes within maps are extremely slippery and even worse in editor.
 🔳 Trees don't have hitboxes on their leaves.
 🔳 Directional cubic lighting bug. The light moves in a cube-like shape in the direction you face (https://cdn.discordapp.com/attachments/1103571515649310751/1103572477046702100/image.png)
+🔳 Spamming spacebar on box edges makes you climb up them. Likely related to the boxes being slippery. (add vid clip here)
+🔳 
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
 🔳
 🔳
 🔳
@@ -135,5 +148,11 @@ Heroes : Kulu
 🔳
 🔳
 🔳
+🔳
+🔳
+
+----- Other miscellaneous bugs -----
+
+🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.
 🔳
 🔳
