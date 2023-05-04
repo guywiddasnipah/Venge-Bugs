@@ -39,7 +39,7 @@
 General
 
 🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.
-🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it.
+🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.
 🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.
 🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (attach ss)
 🔳 Lighting issues on guns in official map jsons. Even if you turn around there's no lighting on the weapon and hands. (attach clip)
