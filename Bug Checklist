@@ -34,12 +34,18 @@
 
 ----- In-Game -----
 
-## Heroes
+Heroes : Lilium
 
 🔳
+
+Heroes : Shin
+🔳
+
+Heroes : Echo
 🔳
 🔳
-🔳
+
+Heroes : Kulu
 🔳
 🔳
 🔳
@@ -55,9 +61,9 @@
 
 ## Maps
 
-🔳
-🔳
-🔳
+🔳 Boxes within maps are extremely slippery and even worse in editor.
+🔳 Trees don't have hitboxes on their leaves.
+🔳 Directional cubic lighting bug. The light moves in a cube-like shape in the direction you face (https://cdn.discordapp.com/attachments/1103571515649310751/1103572477046702100/image.png)
 🔳
 🔳
 🔳
