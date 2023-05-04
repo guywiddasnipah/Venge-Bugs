@@ -34,6 +34,27 @@
 
 ----- In-Game -----
 
+General
+
+🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.
+🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it.
+🔳
+🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.
+🔳 The inbox system also isn't live like before. This means to see a new message from the sender you have to close and reopen the inbox again.
+🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.
+🔳 Multiple dances can be selected in the Shop inventory at once.
+🔳 The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+
 Heroes : Lilium
 
 🔳 Lilium's dress overlaps on her thigh (add gif)
@@ -165,34 +186,6 @@ Heroes : Kulu
 
 🔳
 🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-
------ Settings and Other Miscellaneous Bugs -----
-
-🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.
-🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it.
-🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.
-🔳 The inbox system also isn't live like before. This means to see a new message from the sender you have to close and reopen the inbox again.
-🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.
-🔳 Multiple dances can be selected in the Shop inventory at once.
-🔳 The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.
 🔳
 🔳
 🔳
