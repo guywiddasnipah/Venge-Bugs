@@ -48,8 +48,8 @@ General
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).
-🔳
-🔳
+🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.
+🔳 Black screen appears sometimes after matchmaking is complete.
 🔳
 🔳
 🔳
@@ -76,6 +76,7 @@ Heroes : Lilium
 🔳
 
 Heroes : Shin
+
 🔳
 🔳
 🔳
@@ -88,6 +89,7 @@ Heroes : Shin
 🔳
 
 Heroes : Echo
+
 🔳
 🔳
 🔳
@@ -100,6 +102,7 @@ Heroes : Echo
 🔳
 
 Heroes : Kulu
+
 🔳 Kulu cannot be unlocked with vgs anymore and Kulu quest is bugged. Quest doesn't activate until you complete some other quest.
 🔳
 🔳
@@ -111,7 +114,7 @@ Heroes : Kulu
 🔳
 🔳
 
-## Weapons
+Weapons
 
 🔳
 🔳
@@ -120,11 +123,11 @@ Heroes : Kulu
 🔳
 🔳
 
-## Maps
+Maps
 
 🔳 Boxes within maps are extremely slippery and even worse in editor.
 🔳 Trees don't have hitboxes on their leaves.
-🔳 Directional cubic lighting bug. The light moves in a cube-like shape in the direction you face (https://iili.io/HSXwpqP.png)
+🔳 Directional cubic lighting bug. The light moves in a cube-like shape in the direction you face. (https://iili.io/HSXwpqP.png)
 🔳 Spamming spacebar on box edges makes you climb up them. Likely related to the boxes being slippery. (https://youtu.be/RgbDznCvy6M)
 🔳 
 🔳
@@ -169,14 +172,14 @@ Heroes : Kulu
 ----- Map Editor -----
 
 🔳 Random circles appear after placing an object on the scene. Also don't go away after the object is removed. (https://iili.io/HSXgkmX.png)
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 A lot of times the editor and maps made with editor have objects with completely white texture.
+🔳 Resizing an asset does not resize its colliders. (attach vid)
+🔳 The collider "Invisible-Box" doesn't work anymore. 
+🔳 Rotation handles for assets bug out a lot after an oject is rotated a couple times. (add clip)
+🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)
+🔳 Rotation handles also don't have z-axis unlike translation and scaling handles.
+🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.
+🔳 The axes of rotation is physically still the same after an object is rotated. (attach clip, rotate a box at 45 and move it up and down)
 🔳
 🔳
 🔳
