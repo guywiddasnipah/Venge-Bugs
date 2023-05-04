@@ -11,7 +11,7 @@
 
 ----- Main UI -----
 
-🔳 After every match an advert tries to play but doesn't. This also causes the cursor to lock automatically.
+🔳 After every match an advert tries to play but doesn't. This also causes the cursor to lock automatically and disappear.
 🔳 Max limit of claiming ad rewards per day is 3. But the popup shows up more than 3 times.
 🔳 It takes too long to equip a skin in Shop inventory (about 5-10 seconds).
 🔳 Multiple dances can be selected in the Shop inventory at once.
