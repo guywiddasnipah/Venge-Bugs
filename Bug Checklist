@@ -41,7 +41,7 @@ General
 🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.
 🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.
 🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.
-🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (attach ss)
+🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (https://iili.io/HSw4uYx.png)
 🔳 Lighting issues on guns in official map jsons. Even if you turn around there's no lighting on the weapon and hands. (https://youtube.com/shorts/VrFCyTAo_9Y)
 🔳 Lighting issues on the whole terrain. For maps with brighter skyboxes like Mistle and Tundra, there should be some amount of shadows.
 🔳 Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc. (attach multiple ss shortened iili)
