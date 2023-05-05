@@ -50,8 +50,8 @@ General
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).
 🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.
 🔳 Black screen appears sometimes after matchmaking is complete.
-🔳
-🔳
+🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)
+🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).
 🔳
 🔳
 🔳
@@ -65,11 +65,11 @@ General
 Heroes : Lilium
 
 🔳 Lilium's dress overlaps on her thigh (add gif)
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 Lilium's grenade color has become very pale pink. It isn't the usual dark pink anymore. It also blows up a bit quicker than it should.
+🔳 Grenade also has very low audio when someone throws it at you. Sounds loud only when it hits very near you.
+🔳 Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (gif)
+🔳 Only Hammer and Shin's dash can de-rank enemies in gungame. This is unfair to Echo and Kulu.
+🔳 
 🔳
 🔳
 🔳
