@@ -54,8 +54,8 @@ General
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)
 🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.
-🔳 
-🔳
+🔳 Sometimes kill-feed entries get stuck on the HUD.
+🔳 Some character skins like Egyptian Kulu and Lilium-Dragon are shorter, giving a slight hitbox advantage. 
 🔳
 🔳
 🔳
@@ -78,7 +78,7 @@ Heroes : Lilium
 Heroes : Shin
 
 🔳 Shin Dash doesn't cause any damage sometimes even after intersecting with enemies. 
-🔳 
+🔳 Shin's hand positioning with some weapons like tec-9 and deagle is weird.
 🔳
 🔳
 🔳
@@ -105,7 +105,7 @@ Heroes : Kulu
 
 🔳 Kulu cannot be unlocked with vgs anymore and Kulu quest is bugged. Quest doesn't activate until you complete some other quest.
 🔳 Kulu's emission doesn't work anymore.
-🔳 Egyptian Kulu has a tracer that you can see through walls. (ask ryan for clip)
+🔳 Egyptian Kulu has a tracer that you can see through walls. (https://iili.io/HS8RzPe.png)
 🔳 
 🔳
 🔳
