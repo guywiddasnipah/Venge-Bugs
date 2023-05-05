@@ -26,13 +26,8 @@
 🔳 A lot of irrelevant alerts after every refresh, "Please log in", "You've already claimed your reward", even though nothing is clicked.
 🔳 "An error occurred" alert even after completing a quest.
 🔳 LMG can't be unlocked anymore from loadout.
-🔳 
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 In your profile settings you cannot update your password unless you also change your email.
+🔳 Cannot update clan info like welcome message and discord link.
 
 ----- In-Game -----
 
@@ -44,7 +39,7 @@ General
 🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (https://iili.io/HSw4uYx.png)
 🔳 Lighting issues on guns in official map jsons. Even if you turn around there's no lighting on the weapon and hands. (https://youtube.com/shorts/VrFCyTAo_9Y)
 🔳 Lighting issues on the whole terrain. For maps with brighter skyboxes like Mistle and Tundra, there should be some amount of shadows.
-🔳 Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc. (attach multiple ss shortened iili)
+🔳 Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc.
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).
@@ -56,11 +51,8 @@ General
 🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.
 🔳 Sometimes kill-feed entries get stuck on the HUD.
 🔳 Some character skins like Egyptian Kulu and Lilium-Dragon are shorter, giving a slight hitbox advantage. 
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 After a game is left the overall audio suddenly maxes out.
+🔳 Ability icons do not change for different characters on mobile. Its always Lilium's hammer for melee and grenade for throwable (https://iili.io/HSSR0Bt.png)
 
 Heroes : Lilium
 
@@ -69,37 +61,17 @@ Heroes : Lilium
 🔳 Grenade has very low audio when someone throws it at you. Sounds loud only when it hits very close to you.
 🔳 Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)
 🔳 Only Hammer and Shin's dash can de-rank enemies in gungame. This is unfair to Echo and Kulu.
-🔳 Grenade has weird properties. It sometimes passes through the ground, gets embedded into and sometimes bounces off the ground. (vid clip- all grenade reactions)
-🔳 
-🔳
-🔳
-🔳
+🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.
 
 Heroes : Shin
 
 🔳 Shin Dash doesn't cause any damage sometimes even after intersecting with enemies. 
 🔳 Shin's hand positioning with some weapons like tec-9 and deagle is weird.
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
 
 Heroes : Echo
 
-🔳 
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 Echo's grapple can take you outside the map if used such. (https://www.youtube.com/watch?v=ye6cMna48N0)
+🔳 Echo's axe doesn't do any damage sometimes.
 
 Heroes : Kulu
 
@@ -111,40 +83,29 @@ Heroes : Kulu
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.
 🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/s6W5YPa91xE)
 🔳 No dances except default work on Kulu.
-🔳
-🔳
 
 Weapons
 
 🔳 The deagle's magazine is weirdly positioned sometimes. (https://iili.io/HSvdCYJ.png)
 🔳 The M4 starts out with 20 bullets instead of 25 when you join a game.
 🔳 Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (add vid clip) 
-🔳 
-🔳
-🔳
 
 Maps
 
+🔳 Many advantageous spots and glitch spots in official maps. (make collage of all)
 🔳 Boxes within maps are extremely slippery and even worse in editor.
 🔳 Trees don't have hitboxes on their leaves.
 🔳 Directional cubic lighting bug. The light moves in a cube-like shape in the direction you face. (https://iili.io/HSXwpqP.png)
 🔳 Spamming spacebar on box edges makes you climb up them. Likely related to the boxes being slippery. (https://youtu.be/RgbDznCvy6M)
-🔳 
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 Payload in Mistle doesn't move sometimes.
+🔳 Rocks close to the water in Mistle don't have hitboxes.
+🔳 Cannot pick teams in Mistle TDM, team selection only works for custom Mistle matches.
+🔳 Water in Mistle doesn't move a lot of times. 
+🔳 Mistle Payload hitbox is really big. You can get stuck in the snake tunnel because of it.
+🔳 No grapple collisions on Temple map. There are two that only flash when you try to use grapple but they don't work.
+🔳 AK-47 has still not been added to gun-game mode.
+🔳 There are minecart tracks on Tundra but there is no minecart. They lower performance.
+🔳 The gliders in SandstormBlitz are not very controllable and the Whirlwinds give it very less momentum.
 
 ----- Social Hub -----
 
@@ -153,21 +114,6 @@ Maps
 ✅ Wiki thumbnails are broken.
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.
 🔳 Some old event items are still unsellable. Would be great if they could be made sellable too.
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
 
 ----- Map Editor -----
 
@@ -179,17 +125,8 @@ Maps
 🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)
 🔳 Rotation handles also don't have z-axis unlike translation and scaling handles.
 🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.
-🔳 The axes of rotation is physically still the same after an object is rotated. (attach clip, rotate a box at 45 and move it up and down)
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 The axes of rotation is physically still the same after an object is rotated. (attach clip, rotate a box at 45 and 90 and move it up and down)
+🔳 If you click Test map button too many times very quickly your crosshair doesn't lock anymore until you refresh page.
 🔳
 
 ----- Client ----- {TO BE ADDED SOON}
