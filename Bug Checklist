@@ -24,9 +24,9 @@
 🔳 You can claim daily rewards even without watching its advert.
 🔳 After leaving any match the character on the main UI takes up the lighting of that match (global ambient issues).
 🔳 A lot of irrelevant alerts after every refresh, "Please log in", "You've already claimed your reward", even though nothing is clicked.
+🔳 "An error occurred" alert even after completing a quest.
+🔳 LMG can't be unlocked anymore from loadout.
 🔳 
-🔳
-🔳
 🔳
 🔳
 🔳
@@ -52,9 +52,9 @@ General
 🔳 Black screen appears sometimes after matchmaking is complete.
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).
-🔳
-🔳
-🔳
+🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)
+🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.
+🔳 
 🔳
 🔳
 🔳
@@ -116,9 +116,9 @@ Heroes : Kulu
 
 Weapons
 
-🔳 The deagle's magazine is weirdly positioned sometimes. (add ss)
+🔳 The deagle's magazine is weirdly positioned sometimes. (https://iili.io/HSvdCYJ.png)
 🔳 The M4 starts out with 20 bullets instead of 25 when you join a game.
-🔳 Weapons start out with the same magazine from last match if you continue to next match. It should be full-mag for every new match. (add vid clip) 
+🔳 Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (add vid clip) 
 🔳 
 🔳
 🔳
@@ -152,7 +152,7 @@ Maps
 🔳 Unable to view a listing in "My Sales" after putting something up on market. It only shows up when it sells.
 ✅ Wiki thumbnails are broken.
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.
-🔳 
+🔳 Some old event items are still unsellable. Would be great if they could be made sellable too.
 🔳
 🔳
 🔳
@@ -192,15 +192,6 @@ Maps
 🔳
 🔳
 
------ Client -----
+----- Client ----- {TO BE ADDED SOON}
 
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
 🔳
