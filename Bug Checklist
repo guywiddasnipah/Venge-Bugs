@@ -23,8 +23,8 @@
 🔳 Daily Rewards alert "You already claimed your daily reward!" keeps popping up after every refresh.
 🔳 You can claim daily rewards even without watching its advert.
 🔳 After leaving any match the character on the main UI takes up the lighting of that match (global ambient issues).
+🔳 A lot of irrelevant alerts after every refresh, "Please log in", "You've already claimed your reward", even though nothing is clicked.
 🔳 
-🔳
 🔳
 🔳
 🔳
@@ -66,19 +66,19 @@ Heroes : Lilium
 
 🔳 Lilium's dress overlaps on her thigh (add gif)
 🔳 Lilium's grenade color has become very pale pink. It isn't the usual dark pink anymore. It also blows up a bit quicker than it should.
-🔳 Grenade also has very low audio when someone throws it at you. Sounds loud only when it hits very near you.
+🔳 Grenade has very low audio when someone throws it at you. Sounds loud only when it hits very close to you.
 🔳 Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)
 🔳 Only Hammer and Shin's dash can de-rank enemies in gungame. This is unfair to Echo and Kulu.
+🔳 Grenade has weird properties. It sometimes passes through the ground, gets embedded into and sometimes bounces off the ground. (vid clip- all grenade reactions)
 🔳 
-🔳
 🔳
 🔳
 🔳
 
 Heroes : Shin
 
-🔳
-🔳
+🔳 Shin Dash doesn't cause any damage sometimes even after intersecting with enemies. 
+🔳 
 🔳
 🔳
 🔳
@@ -90,7 +90,7 @@ Heroes : Shin
 
 Heroes : Echo
 
-🔳
+🔳 
 🔳
 🔳
 🔳
@@ -104,9 +104,9 @@ Heroes : Echo
 Heroes : Kulu
 
 🔳 Kulu cannot be unlocked with vgs anymore and Kulu quest is bugged. Quest doesn't activate until you complete some other quest.
-🔳
-🔳
-🔳
+🔳 Kulu's emission doesn't work anymore.
+🔳 Egyptian Kulu has a tracer that you can see through walls. (ask ryan for clip)
+🔳 
 🔳
 🔳
 🔳
@@ -116,10 +116,10 @@ Heroes : Kulu
 
 Weapons
 
-🔳
-🔳
-🔳
-🔳
+🔳 The deagle's magazine is weirdly positioned sometimes. (add ss)
+🔳 The M4 starts out with 20 bullets instead of 25 when you join a game.
+🔳 Weapons start out with the same magazine from last match if you continue to next match. It should be full-mag for every new match. (add vid clip) 
+🔳 
 🔳
 🔳
 
