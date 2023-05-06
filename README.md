@@ -20,6 +20,6 @@ P.S. Thanks to all fellow Bug Hunters from the community!
 **> R7AN?**  
 **> Captain Cool**  
 **> MOROXI**  
-**> WqX_	**  
+**> WqX**  
 **> PR0FE$$IONAL**  
  
