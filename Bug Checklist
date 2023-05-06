@@ -65,6 +65,7 @@ Heroes : Lilium
 🔳 Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)🔴
 🔳 Only Hammer and Shin's dash can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
 🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.🟡
+🔳 Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
 
 Heroes : Shin
 
@@ -81,7 +82,7 @@ Heroes : Kulu
 🔳 Kulu cannot be unlocked with vgs anymore and Kulu quest is bugged. Quest doesn't activate until you complete some other quest.🔴
 🔳 Kulu's emission doesn't work anymore.🟢
 🔳 Egyptian Kulu has a tracer that you can see through walls. (https://iili.io/HS8RzPe.png | https://youtu.be/-UxjE7C83IM)🟢
-🔳 Totems can be spam-spawned after Kulu dies (bery prominent when playing on a mobile device).🔴
+🔳 Totems can be spam-spawned after Kulu dies (very prominent when playing on a mobile device).🔴
 🔳 When anyone in the match dies, the totems deactivate.🔴
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.🟡
 🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/s6W5YPa91xE)🟡
@@ -131,6 +132,6 @@ Maps
 🔳 The axes of rotation is physically still the same after an object is rotated. (attach clip, rotate a box at 45 and 90 and move it up and down)🟡
 🔳 If you click Test map button too many times very quickly your crosshair doesn't lock anymore until you refresh page.🔴
 
------ Client ----- {TO BE ADDED SOON}
+----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
 
 🔳
