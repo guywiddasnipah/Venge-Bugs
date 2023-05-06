@@ -14,3 +14,9 @@ P.S. Thanks to all fellow Bug Hunters from the community!
 **> R7AN?**  
 **> Captain Cool**  
 **> MOROXI**  
+  
+**Bug fetching now comes with additional rewards! Here are the rewards by category for every bug submitted:**  
+   
+**Severe Bug 🔴: 1000 VG**
+**Moderate Bug 🟡: 750 VG**  
+**Mild Bug 🟢: 500 VG**
