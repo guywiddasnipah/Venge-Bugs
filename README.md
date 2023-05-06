@@ -1,6 +1,6 @@
 # Venge Bug Checklist
 
-This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). The checklist will receive regular updates every Friday and bugs will be added to [Bug Checklist](https://github.com/guywiddasnipah/Venge-Bugs/blob/main/Bug%20Checklist). Bug statuses will also be maintained.
+This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). The checklist will receive regular updates every Friday and bugs will be added to/updated on the [Bug Checklist](https://github.com/guywiddasnipah/Venge-Bugs/blob/main/Bug%20Checklist).
 
 
  **For any questions/feedback/reports/additions to the list DM me on Discord.**
