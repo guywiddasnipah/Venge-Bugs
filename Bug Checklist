@@ -2,9 +2,9 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  30        
-║ Version:                 ║ 1.2.12                                      ║                                                 Moderate/Medium Priority Bugs     🟡  39       
+║ Version:                 ║ 1.2.12                                      ║                                                 Moderate/Medium Priority Bugs     🟡  40       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  20       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  88       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  89       
 ╚════════════════════════════════════════════════════════════════════════╝                                                 Fixed Bugs                        ✅  1
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -55,6 +55,7 @@ General
 🔳 Ability icons do not change for different characters on mobile. Its always Lilium's hammer for melee and grenade for throwable (https://iili.io/HSSR0Bt.png)🟢
 🔳 Anticheat false kicks alot of the legit the good players and isn't quick on actual hackers.🔴
 🔳 In-game chat slur censoring is way too strict. Even good words like "assumption" get converted to "***umption" just because of the term "ass".🟡
+🔳 Can't move camera around like before while dancing in-game.🟡
 
 Heroes : Lilium
 
