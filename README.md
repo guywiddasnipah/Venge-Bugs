@@ -17,7 +17,7 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
  
 P.S. Thanks to all fellow Bug Hunters from the community!
 
-**> R7AN?**  **(Thanks for the 10k reward donation as well!🔱)**  
+**> R7AN?**  **(Thanks for the 10k reward donation! 🔱)**  
 **> Captain Cool**  
 **> MOROXI**  
 **> WqX**  
