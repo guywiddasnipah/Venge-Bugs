@@ -7,7 +7,13 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
 
 
  **List created and managed by [Vance Y.#1008](https://discord.com/users/694164511011110972).**
- 
+
+**🚩Bug reporting now comes with additional rewards! Here are the rewards by category for every bug submitted:**  
+   
+**Severe Bug 🔴: 1000 VG**  
+**Moderate Bug 🟡: 750 VG**  
+**Mild Bug 🟢: 500 VG**  
+   
  
 P.S. Thanks to all fellow Bug Hunters from the community!
 
@@ -15,8 +21,3 @@ P.S. Thanks to all fellow Bug Hunters from the community!
 **> Captain Cool**  
 **> MOROXI**  
   
-**Bug fetching now comes with additional rewards! Here are the rewards by category for every bug submitted:**  
-   
-**Severe Bug 🔴: 1000 VG**  
-**Moderate Bug 🟡: 750 VG**  
-**Mild Bug 🟢: 500 VG**
