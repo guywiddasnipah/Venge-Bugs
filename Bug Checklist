@@ -141,3 +141,37 @@ Maps
 
 
 ---New bugs----
+🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.
+🔳 Player search bar on leaderboard is broken. You have to search a name two tiems to make it appear.
+🔳 Player search bar doesn't show all entries for a search term. Only 10 search results are shown making it harder to search for the right user.
+🔳 Clan leaderboard search bar is the same as leaderboard search bar. It should instead be there to search for clans instead of users.
+🔳 Sprays don't work anymore.
+🔳 Same account can join the same lobby. This gives players an advantage of boosting stats. (https://iili.io/HUYdQmG.png)
+🔳 Skin thumbnails don't load sometimes in the in-game leaderboard and end-game scoreboard.
+🔳 Turn off shadows doesn't work. The shadows are still there on the map.
+🔳 Sniper scope lens used to be reflective before. Now its just static.
+🔳 Guns in the game are now positioned a bit frontward now. It was more realistic before when they were near to the player. (https://iili.io/HUnJARn.png)
+🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.
+🔳 Characters have no shadows at all.
+🔳 Skins with animated textures have laggy animations sometimes. Example- Blaze scar, OLED tec-9. (clip)
+🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.
+🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (clip)
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
+🔳
