@@ -54,7 +54,7 @@ General
 🔳 Some character skins like Egyptian Kulu are shorter than default, giving a slight hitbox advantage.🟢
 🔳 After a game is left the overall audio suddenly maxes out.🔴
 🔳 Ability icons do not change for different characters on mobile. Its always Lilium's hammer for melee and grenade for throwable (https://iili.io/HSSR0Bt.png)🟢
-🔳 Anticheat false kicks alot of the legit the good players and isn't quick on actual hackers.🔴
+🔳 Anticheat false kicks alot of the legit good players and isn't quick on actual hackers.🔴
 🔳 In-game chat slur censoring is way too strict. Even good words like "assumption" get converted to "***umption" just because of the term "ass".🟡
 🔳 Can't move camera around like before while dancing in-game.🟡
 
@@ -126,7 +126,7 @@ Maps
 🔳 A lot of times the editor and maps made with editor have objects with completely white texture.🟡
 🔳 Resizing an asset does not resize its colliders. (attach vid)🔴
 🔳 The collider "Invisible-Box" doesn't work anymore. 🟡
-🔳 Rotation handles for assets bug out a lot after an oject is rotated a couple times. (add clip)🟡
+🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (add clip)🟡
 🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)🔴
 🔳 Rotation handles also don't have z-axis unlike translation and scaling handles.🟡
 🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.🟢
