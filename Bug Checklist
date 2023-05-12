@@ -5,7 +5,7 @@
 ║ Version:                 ║ 1.2.12                                      ║                                                 Moderate/Medium Priority Bugs     🟡  40       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  20       
 ║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  89       
-║ Last Update:             ║ 6 May 2023                                  ║                                                 Fixed Bugs                        ✅  1
+║ Last Update:             ║ 12 May 2023                                 ║                                                 Fixed Bugs                        ✅  1
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -181,3 +181,7 @@ Maps
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)
 🔳 In Mistle private matches the red team has to carry the payload to blue end point, but in public matches red team has to take payload to red end point.
 🔳 You can use Kulu's Staff anywhere where there is collision. It should only be usable on the ground. (https://iili.io/HUczWEF.png)
+
+
+
+update bug numbers and classify next
