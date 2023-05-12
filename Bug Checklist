@@ -93,7 +93,7 @@ Weapons
 
 🔳 The deagle's magazine is weirdly positioned sometimes. (https://iili.io/HSvdCYJ.png)🟢
 🔳 The M4 starts out with 20 bullets instead of 25 when you join a game.🟡
-🔳 Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (add vid clip)🔴
+🔳 Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (https://youtu.be/Eoyqyh1vKtI)🔴
 
 Maps
 
@@ -124,13 +124,13 @@ Maps
 
 🔳 Random circles appear after placing an object on the scene. Also don't go away after the object is removed. (https://iili.io/HSXgkmX.png)🟡
 🔳 A lot of times the editor and maps made with editor have objects with completely white texture.🟡
-🔳 Resizing an asset does not resize its colliders. (attach vid)🔴
+🔳 Resizing an asset does not resize its colliders. (https://youtu.be/KPTr7pAH1u0)🔴
 🔳 The collider "Invisible-Box" doesn't work anymore. 🟡
-🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (add clip)🟡
+🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (https://youtu.be/h727-ngQoHc)🟡
 🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)🔴
 🔳 Rotation handles also don't have z-axis unlike translation and scaling handles.🟡
 🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.🟢
-🔳 The axes of rotation is physically still the same after an object is rotated. (attach clip, rotate a box at 45 and 90 and move it up and down)🟡
+🔳 The axes of rotation is physically still the same after an object is rotated. (https://youtu.be/dWs5HBuXPZ4)🟡
 🔳 If you click Test map button too many times very quickly your crosshair doesn't lock anymore until you refresh page.🔴
 
 ----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
