@@ -86,7 +86,7 @@ Heroes : Kulu
 🔳 Totems can be spam-spawned after Kulu dies (very prominent when playing on a mobile device).🔴
 🔳 When anyone in the match dies, the totems deactivate.🔴
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.🟡
-🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/s6W5YPa91xE)🟡
+🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/y9X80mrOosY)🟡
 🔳 No dances except default work on Kulu.🟢
 
 Weapons
@@ -149,29 +149,35 @@ Maps
 🔳 Same account can join the same lobby. This gives players an advantage of boosting stats. (https://iili.io/HUYdQmG.png)
 🔳 Skin thumbnails don't load sometimes in the in-game leaderboard and end-game scoreboard.
 🔳 Turn off shadows doesn't work. The shadows are still there on the map.
-🔳 Sniper scope lens used to be reflective before. Now its just static.
+🔳 Sniper scope lens used to be reflective before. Now its just static. (https://iili.io/HUcIqCP.png)
 🔳 Guns in the game are now positioned a bit frontward now. It was more realistic before when they were near to the player. (https://iili.io/HUnJARn.png)
 🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.
 🔳 Characters have no shadows at all.
-🔳 Skins with animated textures have laggy animations sometimes. Example- Blaze scar, OLED tec-9. (clip)
+🔳 Skins with animated textures have laggy animations sometimes. Example- Blaze scar, OLED tec-9. (https://youtu.be/euouy_-QMaY)
 🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.
-🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (clip)
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
-🔳
+🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)
+🔳 New accounts log out on their own very frequently and randomly. Happens a lot when you close the browser window and open back and go to venge again.
+🔳 Sometimes when a new enemy spawns for the first time and you place your crosshair on them, they disappear and move to some other spawn point.
+🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)
+🔳 There is no delete clan button in clan settings for newly made clans. Only a leave button which is useles since you can't "leave" the clan as an owner. You can only delete it. (https://youtu.be/JlDyWaLNxFw)
+🔳 Before you could login onto any venge sub-domain and it would log you in everywhere else. Now you have to log in separately on social hub, the game and map editor.
+🔳 The "Default" skins in social hub inventory are very confusing since you cannot list them or sell them.
+🔳 Valentine 2023 skins are not working in-game.
+🔳 If you kill someone and a new player joins the match at that same time, a collision-less glb model of the player character that you just killed stands up again for a few seconds.
+🔳 Sometimes if you spam the ability keys a bit too much you cannot see their cooldown timer anymore until the cooldown resets.
+🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/HUcCfAN.png)
+🔳 The Y key in-game ad-reward activates even when the in-game chat is focused. Should only work when you're not typing in the chat.
+🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)
+🔳 Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.
+🔳 Social hub inventory keeps changing order of items randomly. Makes it harder to look for items.
+🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)
+🔳 You have to refresh page after every log out to get logged out in-game as well.
+🔳 Ad rewards should only pop out after 15 minutes to avoid confusion.
+🔳 If you collide with a pre-spawned player you get flung out of the map.
+🔳 Objective timer is wrong. It always says 15 seconds to next objective but its usually 20-30 seconds. (https://iili.io/HUcoRZ7.png)
+🔳 Sometimes the character running animations just freeze/lag. (https://youtu.be/D4B9uZsrUU0)
+🔳 Sometimes the staff doesn't work on sloped grounds. It only works fine on horizontal grounds.
+🔳 The birds in-game don't fly off sometimes even if you're close to them. (https://iili.io/HUcx3Sj.png)
+🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)
+🔳 In Mistle private matches the red team has to carry the payload to blue end point, but in public matches red team has to take payload to red end point.
+🔳 You can use Kulu's Staff anywhere where there is collision. It should only be usable on the ground. (https://iili.io/HUczWEF.png)
