@@ -1,10 +1,10 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  30        
-║ Version:                 ║ 1.2.12                                      ║                                                 Moderate/Medium Priority Bugs     🟡  40       
-║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  20       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  89       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  40        
+║ Version:                 ║ 1.2.12                                      ║                                                 Moderate/Medium Priority Bugs     🟡  65       
+║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  27       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  131       
 ║ Last Update:             ║ 12 May 2023                                 ║                                                 Fixed Bugs                        ✅  1
 ║ Total bugs:              ║ 132 (+42)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
@@ -184,5 +184,3 @@ Maps
 🔳 You can use Kulu's Staff anywhere where there is collision. It should only be usable on the ground. (https://iili.io/HUczWEF.png)🟡
 🔳 Echo's grapple sometimes get thrown but doesn't show. Or it deals damage but doesn't get thrown (add clip here)🔴
 🔳 Sometimes one map loads into another map if you join a match at the very last second before the next match starts.🟡
-
-update bug numbers and classify next
