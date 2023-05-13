@@ -171,7 +171,7 @@ Maps
 🔳 The collider "Invisible-Box" doesn't work anymore. 🟡
 🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (https://youtu.be/h727-ngQoHc)🟡
 🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)🔴
-🔳 Rotation handles also don't have z-axis unlike translation and scaling handles.🟡
+🔳 Rotation handles don't have z-axis unlike translation and scaling handles.🟡
 🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.🟢
 🔳 The axes of rotation is physically still the same after an object is rotated. (https://youtu.be/dWs5HBuXPZ4)🟡
 🔳 If you click Test map button too many times very quickly your crosshair doesn't lock anymore until you refresh page.🔴
