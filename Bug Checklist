@@ -45,10 +45,12 @@ General
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.🔴
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).🔴
+🔳 Sprays don't work anymore.🟡
 🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
+🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.🟡
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)🟡
 🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.🟡
 🔳 Sometimes kill-feed entries get stuck on the HUD.🔴
@@ -117,9 +119,12 @@ Maps
 
 🔳 For banned or inexistent profiles the "Account is unavailable" alert doesn't show anymore. Its just a blank profile with no stats.🟡
 🔳 Unable to view a listing in "My Sales" after putting something up on market. It only shows up when it sells.🔴
+🔳 Player search bar doesn't show all entries for a search term. Only 10 search results are shown making it harder to search for the right user.🟡
 ✅ Wiki thumbnails are broken.🟢
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
+🔳 Player search bar on leaderboard is broken. You have to search a name two tiems to make it appear.🟡
 🔳 Some old event items are still unsellable. Would be great if they could be made sellable too.🟢
+🔳 Clan leaderboard search bar is the same as leaderboard search bar. It should instead be there to search for clans instead of users.🟡
 
 ----- Map Editor -----
 
