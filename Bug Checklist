@@ -4,9 +4,9 @@
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  40        
 ║ Version:                 ║ 1.2.13                                      ║                                                 Moderate/Medium Priority Bugs     🟡  65       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  27       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  123       
-║ Last Update:             ║ 17 May 2023                                 ║                                                 Fixed Bugs                        ✅  8
-║ Total bugs:              ║ 132 (+42)                                   ║
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  148       
+║ Last Update:             ║ 19 May 2023                                 ║                                                 Fixed Bugs                        ✅  8
+║ Total bugs:              ║ 156 (+24)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -156,7 +156,7 @@ Maps
 🔳 Player search bar doesn't show all entries for a search term. Only 10 search results are shown making it harder to search for the right user.🟡
 ✅ Wiki thumbnails are broken.🟢
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
-🔳 Player search bar on leaderboard is broken. You have to search a name two tiems to make it appear.🟡
+🔳 Player search bar on leaderboard is broken. You have to search a name two times to make it appear.🟡
 🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/HUcCfAN.png)🟢
 🔳 Social hub inventory keeps changing order of items randomly. Makes it harder to look for items.🟡
 🔳 The "Default" skins in social hub inventory are very confusing since you cannot list them or sell them.🟡
@@ -179,3 +179,30 @@ Maps
 ----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
 
 🔳
+
+
+-------------NEW BUGS-----------
+🔳 Social Hub has a login popup but behind it on the page there's already a login field.
+🔳 While using glider in SandstormBlitz if you press RMB, the scope appears and you start gliding very slow. (add ss when sierra bug is fixed)
+🔳 In-game leaderboard/scoreboard doesn't update on its own. So whenever a player leaves their position doesn't get removed from the leaderboard.
+🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.
+🔳 You can emote even after dying. After that you cannot emote again for the entire match.
+🔳 Editor mechanics (gravity, lighting, collisions, relative positioning) are so much different from the main game. They should be the same to get real time building experience.
+🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)
+🔳 You can only play Sierra inspite of selecting any other maps.
+🔳 Character animations on the main UI are static instead of being animated.
+🔳 When two assets share the same coordinates/positions in editor they glitch out a lot. (add clip of skirted wall block)
+🔳 You cannot search for the skins of Heat bundle on market. Likely a naming issue.
+🔳 Sometimes you have default skin equipped when gliding.
+🔳 Glider can get bugged and let you glide on the ground if you intersect with its collider a lot of times in a short span of time.
+🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)
+🔳 Even when you have M4/AK47 selected as your primary you start the match out with Scar. This didn't happen in earlier Venge.
+🔳 Kulu's ground crack and totem stays in the match even after they player using Kulu leaves the match. You can't shoot those totems and burst them.
+🔳 Kulu damage numbers sometimes show infinity damage. Also happens with Shin sometimes. (find clip if possible)
+🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)
+🔳 Clan matches only show last 4 matches played by a member instead of every match played.
+🔳 If you press Ctrl+D in editor instead of duplicating the object it sometimes opens up the bookmark popup of the browser (duplicate water and add clip)
+🔳 If you press R or T in play test mode, the Rotation and Translation handles are activated automatically when you switch back to build mode.
+🔳 The asset selection list on the right goes back to the first list item after every play test.
+🔳 Undo doesn't work properly. It only undoes the last step, sometimes even not that.
+🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)
