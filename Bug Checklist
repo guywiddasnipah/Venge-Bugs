@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  43        
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  44        
 ║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  79       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  35       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  137       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  138       
 ║ Last Update:             ║ 19 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
-║ Total bugs:              ║ 157 (+25)                                   ║
+║ Total bugs:              ║ 158 (+26)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -74,6 +74,7 @@ General
 ✅ When using controller to play the game, there is a very sudden crosshair flick that you get after every kill.🔴
 🔳 You can emote even after dying. After that you cannot emote again for the entire match.🟡
 🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)🟢
+🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
