@@ -20,8 +20,10 @@
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
+🔳 Character animations on the main UI are static instead of being animated.🟢
 🔳 There is no delete clan button in clan settings for newly made clans. Only a leave button which is useles since you can't "leave" the clan as an owner. You can only delete it. (https://youtu.be/JlDyWaLNxFw)🔴
 🔳 If you visit Shop/Leaderboard/Account/Settings and then come back to main menu, sometimes your equipped skin doesn't get applied.🟢
+🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)🟢
 🔳 Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
 🔳 New accounts log out on their own very frequently and randomly. Happens a lot when you close the browser window and open back and go to venge again.🔴
 🔳 Ad rewards should only pop out after 15 minutes to avoid confusion.🟡
@@ -43,9 +45,11 @@ General
 🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
 🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.🔴
 🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.🔴
+🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)🟡
 🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (https://iili.io/HSw4uYx.png)🔴
 🔳 Skins with animated textures have laggy animations sometimes. Example- Blaze scar, OLED tec-9. (https://youtu.be/euouy_-QMaY)🟡
 🔳 Lighting issues on guns in official map jsons. Even if you turn around there's no lighting on the weapon and hands. (https://youtube.com/shorts/VrFCyTAo_9Y)🟡
+🔳 In-game leaderboard/scoreboard doesn't update on its own. So whenever a player leaves their position doesn't get removed from the leaderboard.🔴
 🔳 Lighting issues on the whole terrain. For maps with brighter skyboxes like Mistle and Tundra, there should be some amount of shadows.🟡
 🔳 Sometimes when a new enemy spawns for the first time and you place your crosshair on them, they disappear and move to some other spawn point (add clip from half mag bug).🟡
 ✅ Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc.🟡
@@ -58,22 +62,30 @@ General
 🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
 🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
+🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.🟡
 🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.🟡
 🔳 You have to refresh page after every log out to get logged out in-game as well.🔴
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
 🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)🟡
+🔳 Glider can get bugged and let you glide on the ground if you intersect with its collider a lot of times in a short span of time.🟡
 🔳 The birds in-game don't fly off sometimes even if you're close to them. (https://iili.io/HUcx3Sj.png)🟢
 🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.🟡
 ✅ When using controller to play the game, there is a very sudden crosshair flick that you get after every kill.🔴
+🔳 You can emote even after dying. After that you cannot emote again for the entire match.🟡
+🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)🟢
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
 🔳 Characters have no shadows and reflections at all.🟢
+🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)🟢
+🔳 You can only play Sierra inspite of selecting any other maps.🔴
+🔳 Kulu's ground crack and totem stays in the match even after the player using Kulu leaves the match. You can't shoot those totems and burst them.🟡
 🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.🟡
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)🟡
 🔳 Same account can join the same lobby. This gives players an advantage of boosting stats. (https://iili.io/HUYdQmG.png)🔴
 🔳 Skin thumbnails don't load sometimes in the in-game leaderboard and end-game scoreboard.🟡
 🔳 Sometimes the character running animations just freeze/lag. (https://youtu.be/D4B9uZsrUU0)🟢
+🔳 Sometimes you have default skin equipped when gliding.🟢
 🔳 If you kill someone and a new player joins the match at that same time, a collision-less glb model of the character that you just killed stands up again for a few seconds. (add clip)🔴
 🔳 Valentine 2023 skins are not working in-game.🟡
 🔳 Guns in the game are now positioned a bit frontward now. It was more realistic before when they were near to the player. (https://iili.io/HUnJARn.png)🟢
@@ -81,6 +93,8 @@ General
 🔳 Objective timer is wrong. It always says 15 seconds to next objective but its usually 20-30 seconds. (https://iili.io/HUcoRZ7.png)🟡
 🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.🟡
 🔳 Sometimes kill-feed entries get stuck on the HUD.🔴
+🔳 Even when you have M4/AK47 selected as your primary you start the match out with Scar. This didn't happen in earlier Venge.🟡
+🔳 Kulu damage numbers sometimes show infinity damage. Also happens with Shin sometimes. (find clip if possible)🟢
 🔳 Sometimes if you spam the ability keys a bit too much you cannot see their cooldown timer anymore until the cooldown resets.🟡
 🔳 Some character skins like Egyptian Kulu are shorter than default, giving a slight hitbox advantage.🟢
 ✅ After a game is left the overall audio suddenly maxes out.🔴
@@ -146,6 +160,7 @@ Maps
 🔳 Mistle Payload hitbox is really big. You can get stuck in the snake tunnel because of it.🟡
 🔳 No grapple collisions on Temple map. There are two that only flash when you try to use grapple but they don't work.🟢
 🔳 AK-47 has still not been added to gun-game mode.🟡
+🔳 While using glider in SandstormBlitz if you press RMB, the scope appears and you start gliding very slow. (add ss when sierra bug is fixed)🟡
 🔳 There are minecart tracks on Tundra but there is no minecart. They lower performance.🟢
 🔳 The gliders in SandstormBlitz are not very controllable and the Whirlwinds give it very less momentum.🟢
 
@@ -153,12 +168,15 @@ Maps
 
 ✅ For banned or inexistent profiles the "Account is unavailable" alert doesn't show anymore. Its just a blank profile with no stats.🟡
 🔳 Unable to view a listing in "My Sales" after putting something up on market. It only shows up when it sells.🔴
+🔳 You cannot search for the skins of Heat bundle on market. Likely a naming issue.🟡
 🔳 Player search bar doesn't show all entries for a search term. Only 10 search results are shown making it harder to search for the right user.🟡
 ✅ Wiki thumbnails are broken.🟢
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
 🔳 Player search bar on leaderboard is broken. You have to search a name two times to make it appear.🟡
+🔳 Clan matches only show last 4 matches played by a member instead of every match played.🟡
 🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/HUcCfAN.png)🟢
 🔳 Social hub inventory keeps changing order of items randomly. Makes it harder to look for items.🟡
+🔳 Social Hub has a login popup but behind it on the page there's already a login field.🟢
 🔳 The "Default" skins in social hub inventory are very confusing since you cannot list them or sell them.🟡
 🔳 Some old event items are still unsellable. Would be great if they could be made sellable too.🟢
 🔳 Clan leaderboard search bar is the same as leaderboard search bar. It should instead be there to search for clans instead of users.🟡
@@ -169,40 +187,19 @@ Maps
 🔳 A lot of times the editor and maps made with editor have objects with completely white texture.🟡
 🔳 Resizing an asset does not resize its colliders. (https://youtu.be/KPTr7pAH1u0)🔴
 🔳 The collider "Invisible-Box" doesn't work anymore. 🟡
+🔳 If you press Ctrl+D in editor instead of duplicating the object it sometimes opens up the bookmark popup of the browser (duplicate water and add clip)🟡
+🔳 If you press R or T in play test mode, the Rotation and Translation handles are activated automatically when you switch back to build mode.🟡
+🔳 The asset selection list on the right goes back to the first list item after every play test.🟢
+🔳 Undo doesn't work properly. It only undoes the last step, sometimes even not that.🔴
 🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (https://youtu.be/h727-ngQoHc)🟡
+🔳 Editor mechanics (gravity, lighting, collisions, relative positioning) are so much different from the main game. They should be the same to get real time building experience.🟡
 🔳 Editor doesn't let you save and load a map after a certain amount of saves (about 20-30) (Console bug- Maximum call stack size exceeded)🔴
 🔳 Rotation handles don't have z-axis unlike translation and scaling handles.🟡
 🔳 The size of some existing assets in editor is either too big or too small as compared to official map asset sizes.🟢
 🔳 The axes of rotation is physically still the same after an object is rotated. (https://youtu.be/dWs5HBuXPZ4)🟡
+🔳 When two assets share the same coordinates/positions in editor they glitch out a lot. (add clip of skirted wall block)🟡
 🔳 If you click Test map button too many times very quickly your crosshair doesn't lock anymore until you refresh page.🔴
 
 ----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
 
 🔳
-
-
--------------NEW BUGS-----------
-🔳 Social Hub has a login popup but behind it on the page there's already a login field.
-🔳 While using glider in SandstormBlitz if you press RMB, the scope appears and you start gliding very slow. (add ss when sierra bug is fixed)
-🔳 In-game leaderboard/scoreboard doesn't update on its own. So whenever a player leaves their position doesn't get removed from the leaderboard.
-🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.
-🔳 You can emote even after dying. After that you cannot emote again for the entire match.
-🔳 Editor mechanics (gravity, lighting, collisions, relative positioning) are so much different from the main game. They should be the same to get real time building experience.
-🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)
-🔳 You can only play Sierra inspite of selecting any other maps.
-🔳 Character animations on the main UI are static instead of being animated.
-🔳 When two assets share the same coordinates/positions in editor they glitch out a lot. (add clip of skirted wall block)
-🔳 You cannot search for the skins of Heat bundle on market. Likely a naming issue.
-🔳 Sometimes you have default skin equipped when gliding.
-🔳 Glider can get bugged and let you glide on the ground if you intersect with its collider a lot of times in a short span of time.
-🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)
-🔳 Even when you have M4/AK47 selected as your primary you start the match out with Scar. This didn't happen in earlier Venge.
-🔳 Kulu's ground crack and totem stays in the match even after they player using Kulu leaves the match. You can't shoot those totems and burst them.
-🔳 Kulu damage numbers sometimes show infinity damage. Also happens with Shin sometimes. (find clip if possible)
-🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)
-🔳 Clan matches only show last 4 matches played by a member instead of every match played.
-🔳 If you press Ctrl+D in editor instead of duplicating the object it sometimes opens up the bookmark popup of the browser (duplicate water and add clip)
-🔳 If you press R or T in play test mode, the Rotation and Translation handles are activated automatically when you switch back to build mode.
-🔳 The asset selection list on the right goes back to the first list item after every play test.
-🔳 Undo doesn't work properly. It only undoes the last step, sometimes even not that.
-🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)
