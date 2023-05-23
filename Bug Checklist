@@ -2,11 +2,11 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  43        
-║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  78       
+║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  79       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  35       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  148       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  149       
 ║ Last Update:             ║ 19 May 2023                                 ║                                                 Fixed Bugs                        ✅  8
-║ Total bugs:              ║ 156 (+24)                                   ║
+║ Total bugs:              ║ 157 (+25)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -30,7 +30,7 @@
 🔳 Custom match issues, if you don't join within 10 secs of creating a match then you get the alert "Session is not available!".🔴
 🔳 Before you could login onto any venge sub-domain and it would log you in everywhere else. Now you have to log in separately on social hub, the game and map editor.🟢
 🔳 Daily Rewards alert "You already claimed your daily reward!" keeps popping up after every refresh.🟡
-🔳 You can claim daily rewards even without watching its advert.🔴
+✅ You can claim daily rewards even without watching its advert.🔴
 🔳 After leaving any match the character on the main UI takes up the lighting of that match (global ambient issues).🟡
 🔳 A lot of irrelevant alerts after every refresh, "Please log in", "You've already claimed your reward", even though nothing is clicked.🟡
 🔳 "An error occurred" alert even after completing a quest.🔴
@@ -42,9 +42,9 @@
 
 General
 
-🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
+✅ URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
 🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.🔴
-🔳 After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.🔴
+✅ After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.🔴
 🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)🟡
 🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (https://iili.io/HSw4uYx.png)🔴
 🔳 Skins with animated textures have laggy animations sometimes. Example- Blaze scar, OLED tec-9. (https://youtu.be/euouy_-QMaY)🟡
@@ -57,6 +57,7 @@ General
 🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)🟡
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).🔴
+✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Sprays don't work anymore.🟡
 🔳 The Y key in-game ad-reward activates even when the in-game chat is focused. Should only work when you're not typing in the chat.🔴
 🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
@@ -78,7 +79,7 @@ General
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
 🔳 Characters have no shadows and reflections at all.🟢
 🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)🟢
-🔳 You can only play Sierra inspite of selecting any other maps.🔴
+✅ You can only play Sierra inspite of selecting any other maps.🔴
 🔳 Kulu's ground crack and totem stays in the match even after the player using Kulu leaves the match. You can't shoot those totems and burst them.🟡
 🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.🟡
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)🟡
@@ -98,10 +99,10 @@ General
 🔳 Sometimes if you spam the ability keys a bit too much you cannot see their cooldown timer anymore until the cooldown resets.🟡
 🔳 Some character skins like Egyptian Kulu are shorter than default, giving a slight hitbox advantage.🟢
 ✅ After a game is left the overall audio suddenly maxes out.🔴
-🔳 Ability icons do not change for different characters on mobile. Its always Lilium's hammer for melee and grenade for throwable (https://iili.io/HSSR0Bt.png)🟢
+✅ Ability icons do not change for different characters on mobile. Its always Lilium's hammer for melee and grenade for throwable (https://iili.io/HSSR0Bt.png)🟢
 🔳 Anticheat false kicks alot of the legit good players and isn't quick on actual hackers.🔴
 🔳 In-game chat slur censoring is way too strict. Even good words like "assumption" get converted to "***umption" just because of the term "ass".🟡
-🔳 Can't move camera around like before while dancing in-game.🟡
+✅ Can't move camera around like before while dancing in-game.🟡
 🔳 Turn off shadows doesn't work. The shadows are still there on the map.🟡
 🔳 Sniper scope lens used to be reflective before. Now its just static. (https://iili.io/HUcIqCP.png)🟢
 🔳 Sometimes one map loads into another map if you join a match at the very last second before the next match starts.🟡
@@ -111,14 +112,14 @@ Heroes : Lilium
 🔳 Lilium's dress overlaps on her thigh (add standing gif)🟢
 🔳 Lilium's grenade color has become very pale pink. It isn't the usual dark pink anymore. It also blows up a bit quicker than it should.🟡
 🔳 Grenade has very low audio when someone throws it at you. Sounds loud only when it hits very close to you.🟡
-🔳 Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)🔴
-🔳 Only Hammer and Shin's dash can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
+✅ Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)🔴
+✅ Only Hammer can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
 🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.🟡
 🔳 Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
 
 Heroes : Shin
 
-🔳 Shin Dash doesn't cause any damage sometimes even after intersecting with enemies. 🔴
+✅ Shin Dash doesn't cause any damage sometimes even after intersecting with enemies. 🔴
 🔳 Shin's hand positioning with some weapons like tec-9 and deagle is weird.🟡
 
 Heroes : Echo
@@ -144,7 +145,7 @@ Weapons
 
 🔳 The deagle's magazine is weirdly positioned sometimes. (https://iili.io/HSvdCYJ.png)🟢
 🔳 The M4 starts out with 20 bullets instead of 25 when you join a game.🟡
-🔳 Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (https://youtu.be/Eoyqyh1vKtI)🔴
+✅ Weapons start out with the same used magazine from last match if you continue to next match. It should be full-mag for every new match. (https://youtu.be/Eoyqyh1vKtI)🔴
 
 Maps
 
@@ -162,7 +163,7 @@ Maps
 🔳 AK-47 has still not been added to gun-game mode.🟡
 🔳 While using glider in SandstormBlitz if you press RMB, the scope appears and you start gliding very slow. (add ss when sierra bug is fixed)🟡
 🔳 There are minecart tracks on Tundra but there is no minecart. They lower performance.🟢
-🔳 The gliders in SandstormBlitz are not very controllable and the Whirlwinds give it very less momentum.🟢
+✅ The gliders in SandstormBlitz are not very controllable and the Whirlwinds give it very less momentum.🟢
 
 ----- Social Hub -----
 
