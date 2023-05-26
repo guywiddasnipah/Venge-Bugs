@@ -4,9 +4,9 @@
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  44        
 ║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  79       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  35       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  151       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  152       
 ║ Last Update:             ║ 26 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
-║ Total bugs:              ║ 171 (+13)                                   ║
+║ Total bugs:              ║ 172 (+14)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -222,3 +222,4 @@ Maps
 🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)
 🔳 If you keep continuing matches your FPS keeps lowering progressively and noticeably. 
 🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)
+🔳 Can't play any maps except Sierra on mobile devices.
