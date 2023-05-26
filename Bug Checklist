@@ -4,9 +4,9 @@
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  44        
 ║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  79       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  35       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  138       
-║ Last Update:             ║ 19 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
-║ Total bugs:              ║ 158 (+26)                                   ║
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  151       
+║ Last Update:             ║ 26 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
+║ Total bugs:              ║ 171 (+13)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -205,3 +205,20 @@ Maps
 ----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
 
 🔳
+
+
+
+-------------NEW BUGS---------------
+🔳 Charms noclip into the weapon models when moving around, jumping and turning at specific angles (add clip)
+🔳 Cyborg skin is black in-game and not visible on main UI
+🔳 When a hacker gets kicked for hack activity, they don't really get "kicked". They just can't play anymore and eventually get kicked for being AFK.
+🔳 For Medic skin, the skin-type is "Medic" instead of being "EchoSkin". This is also the reason why it doesn't work in-game.
+🔳 Everytime you leave a match the map selection goes back to "All".
+🔳 There is no HP bar above your teammates in Mistle sometimes. And when you shoot at your teammates the HP bar is red. (add clip)
+🔳 If you're scoped in while the match ends, the scope is over the results UI instead of being under it.
+🔳 You can spam jump the big rocks in SandstormBlitz to climb up them (add clip)
+🔳 After the loading screen for Sierra appears a lot of times the screen goes completely blank with only the chatbox visible (play tundra, leave game in between and play sierra, add clip)
+🔳 When you change the position or rotation values by a small amount the position suddenly changes a lot. (add clip if possible)
+🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)
+🔳 If you keep continuing matches your FPS keeps lowering progressively and noticeably. 
+🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)
