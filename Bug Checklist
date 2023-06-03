@@ -2,10 +2,10 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  49        
-║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  84       
+║ Version:                 ║ 1.2.15                                      ║                                                 Moderate/Medium Priority Bugs     🟡  84       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  39       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  152       
-║ Last Update:             ║ 26 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  150       
+║ Last Update:             ║ 2 June 2023                                 ║                                                 Fixed Bugs                        ✅  22
 ║ Total bugs:              ║ 172 (+14)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
@@ -126,7 +126,7 @@ Heroes : Lilium
 🔳 Cyborg skin is black in-game and not visible on main UI.🟢
 ✅ Only Hammer can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
 🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.🟡
-🔳 Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
+✅ Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
 
 Heroes : Shin
 
@@ -145,7 +145,7 @@ Heroes : Kulu
 🔳 Kulu's emission doesn't work anymore.🟢
 ✅ Egyptian Kulu has a tracer that you can see through walls. (https://iili.io/HS8RzPe.png | https://youtu.be/-UxjE7C83IM)🟢
 🔳 You can use Kulu's Staff anywhere where there is collision. It should only be usable on the ground. (https://iili.io/HUczWEF.png)🟡
-🔳 Totems can be spam-spawned after Kulu dies (very prominent when playing on a mobile device).🔴
+✅ Totems can be spam-spawned after Kulu dies (very prominent when playing on a mobile device).🔴
 🔳 When anyone in the match dies, the totems deactivate.🔴
 🔳 Sometimes the staff doesn't work on sloped grounds. It only works fine on horizontal grounds.🟡
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.🟡
