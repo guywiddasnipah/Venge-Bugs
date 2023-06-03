@@ -4,9 +4,9 @@
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  49        
 ║ Version:                 ║ 1.2.15                                      ║                                                 Moderate/Medium Priority Bugs     🟡  84       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  39       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  150       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  161       
 ║ Last Update:             ║ 2 June 2023                                 ║                                                 Fixed Bugs                        ✅  22
-║ Total bugs:              ║ 172 (+14)                                   ║
+║ Total bugs:              ║ 183 (+11)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -223,17 +223,14 @@ Maps
 
 
 -------------NEW BUGS---------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+🔳 You get logged out frequently when you switch back and forth from the "Inventory" tab to the "My Sales" tab. (add clip)
+🔳 When you get a rank upping kill in Gungame mode, the kill is shown to have happened with the next rank weapon in the kill-feed. (add clip)
+🔳 The same quests give you different rewards sometimes. Also some quests like Kulu's quest tend to appear multiple times in the same refresh.
+🔳 Kulu's quest shows up sometimes as a regular quest even if you have already unlocked it.
+🔳 Mistle map is never shown in the map voting section on the end-game scoreboard. It should be shown in the voting section of Sierra, Tundra and Temple.
+🔳 If you suicide in gun-game mode, its counted as a kill in the rank-kill counter, which keeps on increasing indefinitely. (add clip)
+🔳 If a player joins the match right after the match ends and before the map voting starts, the voting progress bugs out of the progress-bar (https://iili.io/H49cHYB.png)
+🔳 Sometimes the loader on the play button spins infinitely after its clicked.
+🔳 You cannot get more than 1 hacker kicked per game, even if there are multiple in the same match.
+🔳 The in-game inventory isn't scrollable anymore.
+🔳 Unable to equip the new 3rd anniversary skins. Only the charms are working.
