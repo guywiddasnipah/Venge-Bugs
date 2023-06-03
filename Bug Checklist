@@ -1,9 +1,9 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  44        
-║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  79       
-║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  35       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  49        
+║ Version:                 ║ 1.2.14                                      ║                                                 Moderate/Medium Priority Bugs     🟡  84       
+║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  39       
 ║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  152       
 ║ Last Update:             ║ 26 May 2023                                 ║                                                 Fixed Bugs                        ✅  20
 ║ Total bugs:              ║ 172 (+14)                                   ║
@@ -53,6 +53,7 @@ General
 🔳 Lighting issues on the whole terrain. For maps with brighter skyboxes like Mistle and Tundra, there should be some amount of shadows.🟡
 🔳 Sometimes when a new enemy spawns for the first time and you place your crosshair on them, they disappear and move to some other spawn point (add clip from half mag bug).🟡
 ✅ Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc.🟡
+🔳 Charms noclip into the weapon models when moving around, jumping and turning at specific angles. (add clip)🟢
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.🔴
 🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)🟡
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
@@ -63,26 +64,33 @@ General
 🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
 🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
+🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)🔴
 🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.🟡
 🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.🟡
 🔳 You have to refresh page after every log out to get logged out in-game as well.🔴
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
 🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)🟡
+🔳 After the loading screen for Sierra appears a lot of times the screen goes completely blank with only the chatbox visible (play tundra, leave game in between and play sierra, add clip)🔴
 🔳 Glider can get bugged and let you glide on the ground if you intersect with its collider a lot of times in a short span of time.🟡
 🔳 The birds in-game don't fly off sometimes even if you're close to them. (https://iili.io/HUcx3Sj.png)🟢
 🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.🟡
 ✅ When using controller to play the game, there is a very sudden crosshair flick that you get after every kill.🔴
 🔳 You can emote even after dying. After that you cannot emote again for the entire match.🟡
+🔳 If you're scoped in while the match ends, the scope is over the results UI instead of being under it.🟡
 🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)🟢
-🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.
+🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)🟢
+🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.🟡
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
 🔳 Characters have no shadows and reflections at all.🟢
 🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)🟢
 ✅ You can only play Sierra inspite of selecting any other maps.🔴
+🔳 If you keep continuing matches your FPS keeps lowering progressively and noticeably.🔴
 🔳 Kulu's ground crack and totem stays in the match even after the player using Kulu leaves the match. You can't shoot those totems and burst them.🟡
 🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.🟡
+🔳 Everytime you leave a match the map selection goes back to "All".🔴
+🔳 When a hacker gets kicked for hack activity, they don't really get "kicked". They just can't play anymore and eventually get kicked for being AFK.🟡
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)🟡
 🔳 Same account can join the same lobby. This gives players an advantage of boosting stats. (https://iili.io/HUYdQmG.png)🔴
 🔳 Skin thumbnails don't load sometimes in the in-game leaderboard and end-game scoreboard.🟡
@@ -97,6 +105,7 @@ General
 🔳 Sometimes kill-feed entries get stuck on the HUD.🔴
 🔳 Even when you have M4/AK47 selected as your primary you start the match out with Scar. This didn't happen in earlier Venge.🟡
 🔳 Kulu damage numbers sometimes show infinity damage. Also happens with Shin sometimes. (find clip if possible)🟢
+🔳 Can't play any maps except Sierra on mobile devices.🔴
 🔳 Sometimes if you spam the ability keys a bit too much you cannot see their cooldown timer anymore until the cooldown resets.🟡
 🔳 Some character skins like Egyptian Kulu are shorter than default, giving a slight hitbox advantage.🟢
 ✅ After a game is left the overall audio suddenly maxes out.🔴
@@ -114,6 +123,7 @@ Heroes : Lilium
 🔳 Lilium's grenade color has become very pale pink. It isn't the usual dark pink anymore. It also blows up a bit quicker than it should.🟡
 🔳 Grenade has very low audio when someone throws it at you. Sounds loud only when it hits very close to you.🟡
 ✅ Hammer/mallet is highly inaccurate. Hits about 20 degrees to the left of the crosshair. (https://iili.io/HSwU7It.gif)🔴
+🔳 Cyborg skin is black in-game and not visible on main UI.🟢
 ✅ Only Hammer can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
 🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.🟡
 🔳 Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
@@ -159,8 +169,10 @@ Maps
 🔳 Rocks close to the water in Mistle don't have hitboxes.🟢
 🔳 Cannot pick teams in Mistle TDM, team selection only works for custom Mistle matches.🟡
 🔳 Water in Mistle doesn't move a lot of times.🟢
+🔳 There is no HP bar above your teammates in Mistle sometimes. And when you shoot at your teammates the HP bar is red. (add clip)🟡
 🔳 Mistle Payload hitbox is really big. You can get stuck in the snake tunnel because of it.🟡
 🔳 No grapple collisions on Temple map. There are two that only flash when you try to use grapple but they don't work.🟢
+🔳 You can spam jump the big rocks in SandstormBlitz to climb up them (add clip)🟡
 🔳 AK-47 has still not been added to gun-game mode.🟡
 🔳 While using glider in SandstormBlitz if you press RMB, the scope appears and you start gliding very slow. (add ss when sierra bug is fixed)🟡
 🔳 There are minecart tracks on Tundra but there is no minecart. They lower performance.🟢
@@ -176,6 +188,7 @@ Maps
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
 🔳 Player search bar on leaderboard is broken. You have to search a name two times to make it appear.🟡
 🔳 Clan matches only show last 4 matches played by a member instead of every match played.🟡
+🔳 For Medic skin, the skin-type is "Medic" instead of being "EchoSkin". This is also the reason why it doesn't work in-game.🟢
 🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/HUcCfAN.png)🟢
 🔳 Social hub inventory keeps changing order of items randomly. Makes it harder to look for items.🟡
 🔳 Social Hub has a login popup but behind it on the page there's already a login field.🟢
@@ -192,6 +205,7 @@ Maps
 🔳 If you press Ctrl+D in editor instead of duplicating the object it sometimes opens up the bookmark popup of the browser (duplicate water and add clip)🟡
 🔳 If you press R or T in play test mode, the Rotation and Translation handles are activated automatically when you switch back to build mode.🟡
 🔳 The asset selection list on the right goes back to the first list item after every play test.🟢
+🔳 When you change the position or rotation values by a small amount the position suddenly changes a lot. (add clip if possible)🟡
 🔳 Undo doesn't work properly. It only undoes the last step, sometimes even not that.🔴
 🔳 Rotation handles for assets bug out a lot after an object is rotated a couple times. (https://youtu.be/h727-ngQoHc)🟡
 🔳 Editor mechanics (gravity, lighting, collisions, relative positioning) are so much different from the main game. They should be the same to get real time building experience.🟡
@@ -209,17 +223,17 @@ Maps
 
 
 -------------NEW BUGS---------------
-🔳 Charms noclip into the weapon models when moving around, jumping and turning at specific angles (add clip)
-🔳 Cyborg skin is black in-game and not visible on main UI
-🔳 When a hacker gets kicked for hack activity, they don't really get "kicked". They just can't play anymore and eventually get kicked for being AFK.
-🔳 For Medic skin, the skin-type is "Medic" instead of being "EchoSkin". This is also the reason why it doesn't work in-game.
-🔳 Everytime you leave a match the map selection goes back to "All".
-🔳 There is no HP bar above your teammates in Mistle sometimes. And when you shoot at your teammates the HP bar is red. (add clip)
-🔳 If you're scoped in while the match ends, the scope is over the results UI instead of being under it.
-🔳 You can spam jump the big rocks in SandstormBlitz to climb up them (add clip)
-🔳 After the loading screen for Sierra appears a lot of times the screen goes completely blank with only the chatbox visible (play tundra, leave game in between and play sierra, add clip)
-🔳 When you change the position or rotation values by a small amount the position suddenly changes a lot. (add clip if possible)
-🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)
-🔳 If you keep continuing matches your FPS keeps lowering progressively and noticeably. 
-🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)
-🔳 Can't play any maps except Sierra on mobile devices.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
