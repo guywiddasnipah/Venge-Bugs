@@ -1,10 +1,10 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  52        
-║ Version:                 ║ 1.2.15                                      ║                                                 Moderate/Medium Priority Bugs     🟡  90       
-║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  41       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  161       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  54        
+║ Version:                 ║ 1.2.15                                      ║                                                 Moderate/Medium Priority Bugs     🟡  95       
+║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  43       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  170       
 ║ Last Update:             ║ 9 June 2023                                 ║                                                 Fixed Bugs                        ✅  22
 ║ Total bugs:              ║ 192 (+9)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
@@ -233,12 +233,12 @@ Maps
 
 
 ---------NEW BUGS----------
-🔳 AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)
-🔳 Daily rewards don't give skins anymore, only vgs.
-🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.
-🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective.
-🔳 The first capture point when you join a match in Sierra doesn't work as a capture point. If you stand within it you get no score. (ss)
-🔳 While being logged out, if you go to shop > inventory > login, you are now stuck in an endless loop of these three pages until you refresh the page. (add clip)
-🔳 Lilium's frost bomb overlay doesn't cover the whole screen. (ss with arrows)
-🔳 No button to switch weapons on mobile, you can only switch them upon death.
-🔳 Language settings in general settings don't work.
+🔳 AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)🟢
+🔳 Daily rewards don't give skins anymore, only vgs.🟡
+🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
+🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective.🟢
+🔳 The first capture point when you join a match in Sierra doesn't work as a capture point. If you stand within it you get no score. (ss)🟡
+🔳 While being logged out, if you go to shop > inventory > login, you are now stuck in an endless loop of these three pages until you refresh the page. (add clip)🟡
+🔳 Lilium's frost bomb overlay doesn't cover the whole screen. (ss with arrows)🟡
+🔳 No button to switch weapons on mobile, you can only switch them upon death.🔴
+🔳 Language settings in general settings don't work.🔴
