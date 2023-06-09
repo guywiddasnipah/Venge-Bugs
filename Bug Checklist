@@ -241,3 +241,4 @@ Maps
 🔳 While being logged out, if you go to shop > inventory > login, you are now stuck in an endless loop of these three pages until you refresh the page. (add clip)
 🔳 Lilium's frost bomb overlay doesn't cover the whole screen. (ss with arrows)
 🔳 No button to switch weapons on mobile, you can only switch them upon death.
+🔳 Language settings in general settings don't work.
