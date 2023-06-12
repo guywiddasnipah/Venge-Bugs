@@ -2,10 +2,10 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  54        
-║ Version:                 ║ 1.2.15                                      ║                                                 Moderate/Medium Priority Bugs     🟡  94       
+║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  94       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  43       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  166       
-║ Last Update:             ║ 9 June 2023                                 ║                                                 Fixed Bugs                        ✅  25
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  163       
+║ Last Update:             ║ 9 June 2023                                 ║                                                 Fixed Bugs                        ✅  28
 ║ Total bugs:              ║ 191 (+8)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
@@ -14,7 +14,7 @@
 ----- Main UI -----
 
 🔳 After every match an advert tries to play but doesn't. This also causes the cursor to lock automatically on the UI and disappear.🔴
-🔳 Max limit of claiming ad rewards per day is 3. But the popup shows up more than 3 times.🟡
+✅ Max limit of claiming ad rewards per day is 3. But the popup shows up more than 3 times.🟡
 🔳 It takes too long to equip a skin in Shop inventory (about 5-10 seconds).🟢
 🔳 Multiple dances can be selected in the Shop inventory at once.🟡
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
@@ -71,7 +71,7 @@ General
 🔳 Lilium's frost bomb overlay doesn't cover the whole screen as FOV increases. Also seen on narrower screens like tablet. (https://iili.io/H4if8Zu.png)🟡
 🔳 Sprays don't work anymore.🟡
 🔳 The Y key in-game ad-reward activates even when the in-game chat is focused. Should only work when you're not typing in the chat.🔴
-🔳 Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
+✅ Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
 🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
 🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)🔴
@@ -79,7 +79,7 @@ General
 🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.🟡
 🔳 You have to refresh page after every log out to get logged out in-game as well.🔴
 🔳 The first capture point when you join a match in Sierra doesn't work as a capture point. If you stand within it you get no score. (https://iili.io/H4i2NzG.png)🟡
-🔳 AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)🟢
+✅ AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)🟢
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
 🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)🟡
 🔳 After the loading screen for Sierra appears a lot of times the screen goes completely blank with only the chatbox visible (play tundra, leave game in between and play sierra, add clip)🔴
