@@ -29,5 +29,5 @@ P.S. Thanks to all fellow Bug Hunters from the community!
 **> Digitechie**  
 **> wlelekle**  
 **> XProX12347**  
-**> ARE@223**  
+**> ARE@223**  **(Thanks for the 12k reward donation!)**  
 **> #cute/coco***  
