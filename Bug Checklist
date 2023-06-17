@@ -19,6 +19,7 @@
 🔳 Multiple dances can be selected in the Shop inventory at once.🟡
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
+🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
 🔳 Character animations on the main UI are static instead of being animated.🟢
 🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
@@ -81,6 +82,7 @@ General
 🔳 The first capture point when you join a match in Sierra doesn't work as a capture point. If you stand within it you get no score. (https://iili.io/H4i2NzG.png)🟡
 ✅ AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)🟢
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
+🔳 The icon for knife rank in gungame doesn't show on the in-game leaderboard.🔴
 🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)🟡
 🔳 After the loading screen for Sierra appears a lot of times the screen goes completely blank with only the chatbox visible (play tundra, leave game in between and play sierra, add clip)🔴
 🔳 Glider can get bugged and let you glide on the ground if you intersect with its collider a lot of times in a short span of time.🟡
@@ -88,13 +90,18 @@ General
 🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.🟡
 ✅ When using controller to play the game, there is a very sudden crosshair flick that you get after every kill.🔴
 🔳 If you suicide in gun-game mode, its counted as a kill in the rank-kill counter, which keeps on increasing indefinitely. (add clip)🟡
+🔳 Chat messages stay on screen for way too long now, about 30 seconds. Also they don't clear from chat after getting off the screen. You see them again when you press Enter.🔴
 🔳 You can emote even after dying. After that you cannot emote again for the entire match.🟡
+🔳 After dying once in a match the advert banner and respawn loader on the death screen continue to stay on screen for the rest of the match.🔴
 🔳 If you're scoped in while the match ends, the scope is over the results UI instead of being under it.🟡
 🔳 Charms in-game can clip through the weapon models when turning at a specific angle or moving too fast. (add clip)🟢
+🔳 A glitchy timer audio plays after death in-game.🟡
+🔳 Shin is the default character for all guest users now. Also sometimes the abilities it gets are of Lilium but the countdowns for them are of Shin. Example: Venom bomb with 5 sec cooldown.🔴
 🔳 When you get a rank upping kill in Gungame mode, the kill is shown to have happened with the next rank weapon in the kill-feed. (add clip)🟡
 🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)🟢
 🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.🟡
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
+🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
 🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 No button to switch weapons on mobile, you can only switch them upon death.🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
@@ -103,9 +110,12 @@ General
 🔳 Timebomb hand placement in custom maps is very messed. Also messes up other weapons position when you equip them right after equipping timebomb. (add clip.)🟢
 ✅ You can only play Sierra inspite of selecting any other maps.🔴
 🔳 If you keep continuing matches your FPS keeps lowering progressively and noticeably.🔴
+🔳 API update lags, every account dataset that requires an update when something changes either gets updates very late or doesn't get updated at all. Example: current clan, market listings etc.🔴
 🔳 Kulu's ground crack and totem stays in the match even after the player using Kulu leaves the match. You can't shoot those totems and burst them.🟡
+🔳 Many of the assets in-game are still json while they should've been converted to glb already.🔴
 🔳 When in-game ad-reward weapon is unlocked and equipped you cannot switch back to default 1st slot weapon. You need to switch to another slot then switch back to 1st slot to make it happen.🟡
 🔳 Everytime you leave a match the map selection goes back to "All".🔴
+🔳 Assist numbers on the K/D/A list on end-game score interface are always 0 because there is no assist kill mechanic in Venge.🟡
 🔳 When a hacker gets kicked for hack activity, they don't really get "kicked". They just can't play anymore and eventually get kicked for being AFK.🟡
 🔳 While having sniper equipped, if you spam RMB and also switch to another weapon at the same time, the scope glitches out. (https://iili.io/HSkenne.png)🟡
 🔳 Same account can join the same lobby. This gives players an advantage of boosting stats. (https://iili.io/HUYdQmG.png)🔴
@@ -206,6 +216,7 @@ Maps
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
 🔳 Player search bar on leaderboard is broken. You have to search a name two times to make it appear.🟡
 🔳 Clan matches only show last 4 matches played by a member instead of every match played.🟡
+🔳 Account names starting with "#" are not shown on social.venge.io/#[account name].🔴
 🔳 For Medic skin, the skin-type is "Medic" instead of being "EchoSkin". This is also the reason why it doesn't work in-game.🟢
 🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/H4b5MMu.png)🟢
 🔳 You get logged out frequently when you switch back and forth from the "Inventory" tab to the "My Sales" tab. (add clip)🟡
@@ -238,17 +249,3 @@ Maps
 ----- Client ----- {TO BE ADDED SOON, NOT ACCEPTING SUBMISSIONS FOR THE MOMENT}
 
 🔳
-
-
-----------NEW BUGS------------
-🔳 After dying once in a match the advert banner and respawn loader on the death screen continue to stay on screen for the rest of the match.🔴
-🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
-🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
-🔳 The icon for knife rank in gungame doesn't show on the in-game leaderboard.🔴
-🔳 Assist numbers on the K/D/A list on end-game score interface are always 0 because there is no assist kill mechanic in Venge.🟡
-🔳 API update lags, every account dataset that requires an update when something changes either gets updates very late or doesn't get updated at all. Example: current clan, market listings etc.🔴
-🔳 Account names starting with "#" are not shown on social.venge.io/#[account name].🔴
-🔳 Shin is the default character for all guest users now. Also sometimes the abilities it gets are of Lilium but the countdowns for them are of Shin. Example: Venom bomb with 5 sec cooldown.🔴
-🔳 Chat messages stay on screen for way too long now, about 30 seconds. Also they don't clear from chat after getting off the screen. You see them again when you press Enter.🔴
-🔳 Many of the assets in-game are still json while they should've been converted to glb already.🔴
-🔳 A glitchy timer audio plays after death in-game.🟡
