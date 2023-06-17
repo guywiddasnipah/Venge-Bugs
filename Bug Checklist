@@ -4,8 +4,8 @@
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  54        
 ║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  94       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  43       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  163       
-║ Last Update:             ║ 9 June 2023                                 ║                                                 Fixed Bugs                        ✅  28
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  164       
+║ Last Update:             ║ 9 June 2023                                 ║                                                 Fixed Bugs                        ✅  27
 ║ Total bugs:              ║ 191 (+8)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
@@ -49,7 +49,7 @@
 
 General
 
-✅ URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
+🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
 🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.🔴
 ✅ After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.🔴
 🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)🟡
