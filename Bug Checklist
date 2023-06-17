@@ -1,9 +1,9 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  54        
-║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  94       
-║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  43       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  61        
+║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  97       
+║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  44       
 ║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  175       
 ║ Last Update:             ║ 16 June 2023                                ║                                                 Fixed Bugs                        ✅  27
 ║ Total bugs:              ║ 202 (+11)                                   ║
@@ -241,14 +241,14 @@ Maps
 
 
 ----------NEW BUGS------------
-🔳 After dying once in a match the advert banner and respawn loader on the death screen continue to stay on screen for the rest of the match.
-🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.
-🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.
-🔳 The icon for knife rank in gungame doesn't show on the in-game leaderboard.
-🔳 Assist numbers on the K/D/A list on end-game score interface are always 0 because there is no assist kill mechanic in Venge.
-🔳 API update lags, every account dataset that requires an update when something changes either gets updates very late or doesn't get updated at all. Example: current clan, market listings etc.
-🔳 Account names starting with "#" are not shown on social.venge.io/#[account name].
-🔳 Shin is the default character for all guest users now. Also sometimes the abilities it gets are of Lilium but the countdowns for them are of Shin. Example: Venom bomb with 5 sec cooldown. 
-🔳 Chat messages stay on screen for way too long now, about 30 seconds. Also they don't clear from chat after getting off the screen. You see them again when you press Enter.
-🔳 Many of the assets in-game are still json while they should've been converted to glb already.
-🔳 A glitchy timer audio plays after death in-game.
+🔳 After dying once in a match the advert banner and respawn loader on the death screen continue to stay on screen for the rest of the match.🔴
+🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
+🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
+🔳 The icon for knife rank in gungame doesn't show on the in-game leaderboard.🔴
+🔳 Assist numbers on the K/D/A list on end-game score interface are always 0 because there is no assist kill mechanic in Venge.🟡
+🔳 API update lags, every account dataset that requires an update when something changes either gets updates very late or doesn't get updated at all. Example: current clan, market listings etc.🔴
+🔳 Account names starting with "#" are not shown on social.venge.io/#[account name].🔴
+🔳 Shin is the default character for all guest users now. Also sometimes the abilities it gets are of Lilium but the countdowns for them are of Shin. Example: Venom bomb with 5 sec cooldown.🔴
+🔳 Chat messages stay on screen for way too long now, about 30 seconds. Also they don't clear from chat after getting off the screen. You see them again when you press Enter.🔴
+🔳 Many of the assets in-game are still json while they should've been converted to glb already.🔴
+🔳 A glitchy timer audio plays after death in-game.🟡
