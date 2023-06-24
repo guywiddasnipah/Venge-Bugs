@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  61        
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  62        
 ║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  97       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  44       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  175       
-║ Last Update:             ║ 16 June 2023                                ║                                                 Fixed Bugs                        ✅  27
-║ Total bugs:              ║ 202 (+11)                                   ║
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  176       
+║ Last Update:             ║ 23 June 2023                                ║                                                 Fixed Bugs                        ✅  27
+║ Total bugs:              ║ 203 (+1)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -81,6 +81,7 @@ General
 🔳 You have to refresh page after every log out to get logged out in-game as well.🔴
 🔳 The first capture point when you join a match in Sierra doesn't work as a capture point. If you stand within it you get no score. (https://iili.io/H4i2NzG.png)🟡
 ✅ AK47 Hypothermia skin texture is lost (404), doesn't work in-game. (https://iili.io/H4PyJzQ.png)🟢
+🔳 Many of the in-game character dialogue audio files don't play but the dialogue still appears on screen. For example, Lilium's "Next time you won't have that chance"🔴
 🔳 Some of the elements in maps have become very bright due to the reflectivity bug. The spinning circle, potions, grenade etc. (https://iili.io/HSwkKVj.png)🟡
 🔳 The icon for knife rank in gungame doesn't show on the in-game leaderboard.🔴
 🔳 When you die and fall to the ground, your equipped character skin goes back to default skin. (https://youtu.be/0zO_cd-CZzk)🟡
