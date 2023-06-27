@@ -6,7 +6,7 @@ This is a checklist of bugs existing in the game [Venge.io](https://venge.io/). 
  **For any questions/feedback/reports/additions to the list DM me on Discord.**
 
 
- **List created and managed by [Vance Y.#1008](https://discord.com/users/694164511011110972).**
+ **List created and managed by [Vance Y.](https://discord.com/users/694164511011110972).**
 
 **🚩Bug reporting now comes with additional rewards! Here are the rewards by category for every bug submitted:**  
    
