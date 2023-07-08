@@ -2,11 +2,11 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  62        
-║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  97       
+║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  98       
 ║ Author:                  ║ Vance Y.#1008                               ║                                                 Mild/Low Priority Bugs            🟢  44       
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  176       
-║ Last Update:             ║ 23 June 2023                                ║                                                 Fixed Bugs                        ✅  27
-║ Total bugs:              ║ 203 (+1)                                    ║
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  177       
+║ Last Update:             ║ 7 July 2023                                 ║                                                 Fixed Bugs                        ✅  27
+║ Total bugs:              ║ 204 (+1)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -69,6 +69,7 @@ General
 🔳 Respawning after getting killed takes a very long time (about 10 seconds).🔴
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
+🔳 The new Crack-Hole.png sometimes stays mid-air sometimes when a player is hit with a melee or throwable. (add ss)🟡
 🔳 Lilium's frost bomb overlay doesn't cover the whole screen as FOV increases. Also seen on narrower screens like tablet. (https://iili.io/H4if8Zu.png)🟡
 🔳 Sprays don't work anymore.🟡
 🔳 The Y key in-game ad-reward activates even when the in-game chat is focused. Should only work when you're not typing in the chat.🔴
