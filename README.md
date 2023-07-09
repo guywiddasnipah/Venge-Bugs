@@ -31,4 +31,4 @@ P.S. Thanks to all fellow Bug Hunters from the community!
 **> XProX12347**  
 **> ARE@223**  **(Thanks for the 12k reward donation!)**  
 **> #cute/coco***  
-**> #GunSlinger119***  
+**> #GunSlinger119**  
