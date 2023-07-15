@@ -20,6 +20,7 @@
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
 🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
+🔳 Even if you don't have enough vgs to buy a crate, when you press the unlock button the spinner sound is audible with the popup "Not enough VG".🟢
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
 🔳 Character animations on the main UI are static instead of being animated.🟢
 🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
@@ -29,8 +30,11 @@
 ✅ The in-game inventory isn't scrollable anymore.🔴
 🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)🟢
 🔳 The same quests give you different rewards sometimes. Also some quests like Kulu's quest tend to appear multiple times in the same refresh.🟡
+🔳 On login page, if you put in your credentials and press register, it logs you in instead.🟢
 🔳 Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
 🔳 New accounts log out on their own very frequently and randomly. Happens a lot when you close the browser window and open back and go to venge again.🔴
+🔳 Quest claim button in Profile > Quests doesn't work.🟡
+🔳 In Profile > Friend's list, instead of showing the last online time, it shows account creation duration.🟢
 🔳 Ad rewards should only pop out after 15 minutes to avoid confusion.🟡
 🔳 Custom match issues, if you don't join within 10 secs of creating a match then you get the alert "Session is not available!".🔴
 🔳 Sometimes the loader on the play button spins infinitely after its clicked.🔴
@@ -181,6 +185,7 @@ Heroes : Kulu
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.🟡
 🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/y9X80mrOosY)🟡
 🔳 No dances except default work on Kulu.🟢
+🔳 Kulu doesn't get upranked after a melee kill, only the affected enemy gets deranked.🔴
 
 Weapons
 
