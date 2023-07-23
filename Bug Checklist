@@ -3,10 +3,10 @@
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  63        
 ║ Version:                 ║ 1.2.16                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
-║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  47         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  182       
-║ Last Update:             ║ 14 July 2023                                ║                                                 Fixed Bugs                        ✅  27
-║ Total bugs:              ║ 209 (+5)                                    ║
+║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  48         
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  183       
+║ Last Update:             ║ 21 July 2023                                ║                                                 Fixed Bugs                        ✅  27
+║ Total bugs:              ║ 210 (+1)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -81,6 +81,7 @@ General
 🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
 🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)🔴
+🔳 Sometimes the ground terrain appears as rainbow (heatmap) colors (https://iili.io/HQoAh5g.png).🟢
 🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.🟡
 🔳 Shadows should be static for the map assets instead of having a render distance. Only the moving objects like characters and guns should have rendered shadows.🟡
 🔳 You have to refresh page after every log out to get logged out in-game as well.🔴
