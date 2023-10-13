@@ -2,11 +2,11 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  63        
-║ Version:                 ║ 1.2.17                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
+║ Version:                 ║ 1.2.19                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
 ║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  48         
 ║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  183       
-║ Last Update:             ║ 21 July 2023                                ║                                                 Fixed Bugs                        ✅  27
-║ Total bugs:              ║ 210 (+1)                                    ║
+║ Last Update:             ║ 13 Oct 2023                                 ║                                                 Fixed Bugs                        ✅  27
+║ Total bugs:              ║ 210 (+0)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -20,7 +20,7 @@
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
 🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
-🔳 Even if you don't have enough vgs to buy a crate, when you press the unlock button the spinner sound is audible with the popup "Not enough VG".🟢
+✅ Even if you don't have enough vgs to buy a crate, when you press the unlock button the spinner sound is audible with the popup "Not enough VG".🟢
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
 🔳 Character animations on the main UI are static instead of being animated.🟢
 🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
@@ -31,7 +31,7 @@
 🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)🟢
 🔳 The same quests give you different rewards sometimes. Also some quests like Kulu's quest tend to appear multiple times in the same refresh.🟡
 🔳 On login page, if you put in your credentials and press register, it logs you in instead.🟢
-🔳 Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
+✅ Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
 🔳 New accounts log out on their own very frequently and randomly. Happens a lot when you close the browser window and open back and go to venge again.🔴
 🔳 Quest claim button in Profile > Quests doesn't work.🟡
 🔳 In Profile > Friend's list, instead of showing the last online time, it shows account creation duration.🟢
@@ -43,12 +43,12 @@
 🔳 Daily Rewards alert "You already claimed your daily reward!" keeps popping up after every refresh.🟡
 ✅ You can claim daily rewards even without watching its advert.🔴
 🔳 Kulu's quest shows up sometimes as a regular quest even if you have already unlocked it.🟢
-🔳 After leaving any match the character on the main UI takes up the lighting of that match (global ambient issues).🟡
+✅ After leaving any match the character on the main UI takes up the lighting of that match (global ambient issues).🟡
 🔳 A lot of irrelevant alerts after every refresh, "Please log in", "You've already claimed your reward", even though nothing is clicked.🟡
 🔳 "An error occurred" alert even after completing a quest.🔴
 🔳 LMG can't be unlocked anymore from loadout.🟡
 ✅ In your profile settings you cannot update your password unless you also change your email.🔴
-🔳 Cannot update clan info like welcome message and discord link.🟡
+✅ Cannot update clan info like welcome message and discord link.🟡
 
 ----- In-Game -----
 
@@ -109,7 +109,7 @@ General
 🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.🟡
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
 🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
-🔳 A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
+✅ A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 No button to switch weapons on mobile, you can only switch them upon death.🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
 🔳 Characters have no shadows and reflections at all.🟢
@@ -136,7 +136,7 @@ General
 🔳 If you collide with a pre-spawned player you get flung out of the map.🔴
 🔳 Objective timer is wrong. It always says 15 seconds to next objective but its usually 20-30 seconds. (https://iili.io/HUcoRZ7.png)🟡
 🔳 Character Rigging issues. Body of character covers the entire screen while using throwables or reloading/inspecting weapons.🟡
-🔳 Sometimes kill-feed entries get stuck on the HUD.🔴
+✅ Sometimes kill-feed entries get stuck on the HUD.🔴
 🔳 Even when you have M4/AK47 selected as your primary you start the match out with Scar. This didn't happen in earlier Venge.🟡
 🔳 Kulu damage numbers sometimes show infinity damage. Also happens with Shin sometimes. (find clip if possible)🟢
 🔳 If a player joins the match right after the match ends and before the map voting starts, the voting progress bugs out of the progress-bar (https://iili.io/H49cHYB.png)🟢
