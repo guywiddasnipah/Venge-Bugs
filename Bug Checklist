@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  64        
-║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  65        
+║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  100       
 ║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  49         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  172       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  174       
 ║ Last Update:             ║ 8 Mar 2024                                  ║                                                 Fixed Bugs                        ✅  40
-║ Total bugs:              ║ 212 (+3)                                    ║
+║ Total bugs:              ║ 214 (+5)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -25,6 +25,7 @@
 🔳 Character animations on the main UI are static instead of being animated.🟢
 ✅ Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
 🔳 Language settings in general settings don't work.🔴
+🔳 Unfavoriting an item displays an alert popup, but it is blank, instead of having an alert text.🟡
 🔳 There is no delete clan button in clan settings for newly made clans. Only a leave button which is useless since you can't "leave" the clan as an owner. You can only delete it. (https://youtu.be/JlDyWaLNxFw)🔴
 🔳 If you visit Shop/Leaderboard/Account/Settings and then come back to main menu, sometimes your equipped skin doesn't get applied.🟢
 ✅ The in-game inventory isn't scrollable anymore.🔴
@@ -74,6 +75,7 @@ General
 ✅ Respawning after getting killed takes a very long time (about 10 seconds).🔴
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
+🔳 FPS drops and ping spikes very evidently when you are positionally closer to enemies🔴
 🔳 The new Crack-Hole.png sometimes stays mid-air sometimes when a player is hit with a melee or throwable. (add ss)🟡
 🔳 Lilium's frost bomb overlay doesn't cover the whole screen as FOV increases. Also seen on narrower screens like tablet. (https://iili.io/H4if8Zu.png)🟡
 🔳 Sprays don't work anymore.🟡
