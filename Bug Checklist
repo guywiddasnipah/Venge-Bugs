@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  63        
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  64        
 ║ Version:                 ║ 1.2.19                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
 ║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  48         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  176       
-║ Last Update:             ║ 13 Oct 2023                                 ║                                                 Fixed Bugs                        ✅  34
-║ Total bugs:              ║ 210 (+0)                                    ║
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  171       
+║ Last Update:             ║ 13 Oct 2023                                 ║                                                 Fixed Bugs                        ✅  40
+║ Total bugs:              ║ 211 (+1)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -15,7 +15,7 @@
 
 🔳 After every match an advert tries to play but doesn't. This also causes the cursor to lock automatically on the UI and disappear.🔴
 ✅ Max limit of claiming ad rewards per day is 3. But the popup shows up more than 3 times.🟡
-🔳 It takes too long to equip a skin in Shop inventory (about 5-10 seconds).🟢
+✅ It takes too long to equip a skin in Shop inventory (about 5-10 seconds).🟢
 🔳 Multiple dances can be selected in the Shop inventory at once.🟡
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
@@ -23,7 +23,7 @@
 ✅ Even if you don't have enough vgs to buy a crate, when you press the unlock button the spinner sound is audible with the popup "Not enough VG".🟢
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
 🔳 Character animations on the main UI are static instead of being animated.🟢
-🔳 Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
+✅ Favoriting items in inventory doesn't work well. It takes a lot of time until it actually updates and favorites the item.🟡
 🔳 Language settings in general settings don't work.🔴
 🔳 There is no delete clan button in clan settings for newly made clans. Only a leave button which is useless since you can't "leave" the clan as an owner. You can only delete it. (https://youtu.be/JlDyWaLNxFw)🔴
 🔳 If you visit Shop/Leaderboard/Account/Settings and then come back to main menu, sometimes your equipped skin doesn't get applied.🟢
@@ -38,7 +38,7 @@
 🔳 Ad rewards should only pop out after 15 minutes to avoid confusion.🟡
 🔳 Custom match issues, if you don't join within 10 secs of creating a match then you get the alert "Session is not available!".🔴
 🔳 Sometimes the loader on the play button spins infinitely after its clicked.🔴
-🔳 Daily rewards don't give skins anymore, only vgs.🟡
+✅ Daily rewards don't give skins anymore, only vgs.🟡
 🔳 Before you could login onto any venge sub-domain and it would log you in everywhere else. Now you have to log in separately on social hub, the game and map editor.🟢
 🔳 Daily Rewards alert "You already claimed your daily reward!" keeps popping up after every refresh.🟡
 ✅ You can claim daily rewards even without watching its advert.🔴
@@ -70,7 +70,7 @@ General
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.🔴
 🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)🟡
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
-🔳 Respawning after getting killed takes a very long time (about 10 seconds).🔴
+✅ Respawning after getting killed takes a very long time (about 10 seconds).🔴
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
 🔳 The new Crack-Hole.png sometimes stays mid-air sometimes when a player is hit with a melee or throwable. (add ss)🟡
@@ -96,6 +96,7 @@ General
 🔳 The birds in-game don't fly off sometimes even if you're close to them. (https://iili.io/HUcx3Sj.png)🟢
 🔳 If you inspect weapon but then also dance/shoot/use ability at the same time, you cannot inspect the weapon anymore for the entire rest of the match.🟡
 ✅ When using controller to play the game, there is a very sudden crosshair flick that you get after every kill.🔴
+✅ Fire-rate of guns is dependent on FPS. It should be the same regardless of how much FPS a player gets.🔴
 🔳 If you suicide in gun-game mode, its counted as a kill in the rank-kill counter, which keeps on increasing indefinitely. (add clip)🟡
 🔳 Chat messages stay on screen for way too long now, about 30 seconds. Also they don't clear from chat after getting off the screen. You see them again when you press Enter.🔴
 🔳 You can emote even after dying. After that you cannot emote again for the entire match.🟡
@@ -108,7 +109,7 @@ General
 🔳 Sometimes character hands don't show even when Hide Hands and Weapons is turned off. (add clip from Venge media)🟢
 🔳 Even if the enemy has any other weapon equipped you can only see them holding the scar.🟡
 🔳 The ground crack, totems and capture points are always horizontal. They don't get slanted over sloped ground. (https://iili.io/HUczAB9.png)🟡
-🔳 Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
+✅ Sometimes character skin thumbnails don't show up on in-game leaderboard.🟢
 ✅ A lot of times damage with weapons, throwables and melees goes unregistered (the enemy doesn't get damaged even when hit).🔴
 🔳 No button to switch weapons on mobile, you can only switch them upon death.🔴
 🔳 Collisions and hitboxes are not well made. For most of the walls you're not even touching them really while for some pillars, your gun can almost poke inside them. (https://iili.io/HUcfmJV.png)🟡  
