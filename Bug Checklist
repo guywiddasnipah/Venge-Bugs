@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  65        
-║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  102       
-║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  49         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  176       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  67        
+║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  103       
+║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  51         
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  181       
 ║ Last Update:             ║ 8 Mar 2024                                  ║                                                 Fixed Bugs                        ✅  40
-║ Total bugs:              ║ 216 (+7)                                    ║
+║ Total bugs:              ║ 221 (+11)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -20,6 +20,7 @@
 ✅ The resolution range in menu settings is 20-100 while for in-game pause menu its 50-100.🟢
 🔳 With the new Friends and messages system added and old one removed, you cannot see if the message sender is online or offline.🟡
 🔳 Emojis before name are not linked to emojis in inventory very well. Even if you sell your emojis the emoji before name doesn't get removed.🟡
+🔳 Clan chat shows message senders' name as "Guest" instead of the actual username.🔴
 ✅ Even if you don't have enough vgs to buy a crate, when you press the unlock button the spinner sound is audible with the popup "Not enough VG".🟢
 🔳 The inbox system also isn't live like before. This means, to see a new message from the sender you have to close and reopen the inbox again.🟡
 🔳 Character animations on the main UI are static instead of being animated.🟢
@@ -30,6 +31,7 @@
 🔳 If you visit Shop/Leaderboard/Account/Settings and then come back to main menu, sometimes your equipped skin doesn't get applied.🟢
 ✅ The in-game inventory isn't scrollable anymore.🔴
 🔳 No lock icons over M4 and AK47 even if you have not unlocked them. (https://iili.io/Hg1Nw6F.png)🟢
+🔳 On the Shop UI if you don't have enough VGs but try to open a crate, it gives you option to watch ads to get VGs But after watching those ads no VGs are added to your account.🔴
 🔳 The same quests give you different rewards sometimes. Also some quests like Kulu's quest tend to appear multiple times in the same refresh.🟡
 🔳 On login page, if you put in your credentials and press register, it logs you in instead.🟢
 ✅ Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
@@ -38,6 +40,7 @@
 🔳 In Profile > Friend's list, instead of showing the last online time, it shows account creation duration.🟢
 🔳 Ad rewards should only pop out after 15 minutes to avoid confusion.🟡
 🔳 Custom match issues, if you don't join within 10 secs of creating a match then you get the alert "Session is not available!".🔴
+🔳 Free skin notification popup doesn't disappear if you don't use it. It stays throughout the match and even on main UI.🟡
 🔳 Sometimes the loader on the play button spins infinitely after its clicked.🔴
 ✅ Daily rewards don't give skins anymore, only vgs.🟡
 🔳 Before you could login onto any venge sub-domain and it would log you in everywhere else. Now you have to log in separately on social hub, the game and map editor.🟢
@@ -74,11 +77,13 @@ General
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
 🔳 LMG reload time doesn't match the reload countdown on screen when reloading it.🟡
 ✅ Respawning after getting killed takes a very long time (about 10 seconds).🔴
+🔳 Dagger does not have a Rank icon in Gungame anymore.🟢
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
 🔳 FPS drops and ping spikes very evidently when you are positionally closer to enemies🔴
 🔳 The new Crack-Hole.png sometimes stays mid-air sometimes when a player is hit with a melee or throwable. (add ss)🟡
 🔳 Lilium's frost bomb overlay doesn't cover the whole screen as FOV increases. Also seen on narrower screens like tablet. (https://iili.io/H4if8Zu.png)🟡
+🔳 Ammo count for AWP appears as 0/undefined in Gungame mode.🟢
 🔳 Sprays don't work anymore.🟡
 🔳 The Y key in-game ad-reward activates even when the in-game chat is focused. Should only work when you're not typing in the chat.🔴
 ✅ Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
