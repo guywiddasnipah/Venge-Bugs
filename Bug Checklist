@@ -2,11 +2,11 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  65        
-║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  100       
+║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  102       
 ║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  49         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  174       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  176       
 ║ Last Update:             ║ 8 Mar 2024                                  ║                                                 Fixed Bugs                        ✅  40
-║ Total bugs:              ║ 214 (+5)                                    ║
+║ Total bugs:              ║ 216 (+7)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -72,6 +72,7 @@ General
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.🔴
 🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)🟡
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
+🔳 LMG reload time doesn't match the reload countdown on screen when reloading it.🟡
 ✅ Respawning after getting killed takes a very long time (about 10 seconds).🔴
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
@@ -83,6 +84,7 @@ General
 ✅ Chat messages disappear very quickly. Was better before when it was about 10 seconds until their disappearance.🟡
 🔳 The in-game ad-reward failure message should be sent by the console, not the player. And it should only be visible to the player, not to everyone else in-game. (https://iili.io/HUcC5R2.png)🟡
 🔳 Black screen appears sometimes after matchmaking is complete.🔴
+🔳 Sometimes your HP in-game shows 0 HP but you are still alive.🟡
 🔳 If you click on the name of a clan member from the in-game report menu it doesn't take you to their profile due to their clan initials. (add browser clip only)🔴
 🔳 Sometimes the ground terrain appears as rainbow (heatmap) colors (https://iili.io/HQoAh5g.png).🟢
 🔳 If you get killed while using emote, you cannot emote for the entire rest of the match.🟡
