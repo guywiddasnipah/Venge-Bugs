@@ -2,11 +2,11 @@
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
 ║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  64        
-║ Version:                 ║ 1.2.19                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
-║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  48         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  171       
-║ Last Update:             ║ 13 Oct 2023                                 ║                                                 Fixed Bugs                        ✅  40
-║ Total bugs:              ║ 211 (+1)                                    ║
+║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  99       
+║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  49         
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  172       
+║ Last Update:             ║ 8 Mar 2024                                  ║                                                 Fixed Bugs                        ✅  40
+║ Total bugs:              ║ 212 (+3)                                    ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -49,6 +49,7 @@
 🔳 LMG can't be unlocked anymore from loadout.🟡
 ✅ In your profile settings you cannot update your password unless you also change your email.🔴
 ✅ Cannot update clan info like welcome message and discord link.🟡
+🔳 In Shop UI the multi-quick-sell button doesn't sell multiple instances of the skin even if you input a number higher than 1.🟢
 
 ----- In-Game -----
 
