@@ -1,12 +1,12 @@
 ╔════════════════════════════════════════════════════════════[─]═[□]═[×]═╗                 
 ║ Venge Bugs Checklist                                                   ║                                                 File Key:                                    
 ╠══════════════════════════╦═════════════════════════════════════════════╣                                            
-║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  67        
-║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  103       
+║ Name:                    ║ Venge Bugs                                  ║                                                 Severe/High Priority Bugs         🔴  71        
+║ Version:                 ║ 1.2.28                                      ║                                                 Moderate/Medium Priority Bugs     🟡  106       
 ║ Author:                  ║ vance_y.                                    ║                                                 Mild/Low Priority Bugs            🟢  51         
-║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  181       
+║ License:                 ║ CC0 1.0 Universal                           ║                                                 Pending Bugs                      🔳  188       
 ║ Last Update:             ║ 8 Mar 2024                                  ║                                                 Fixed Bugs                        ✅  40
-║ Total bugs:              ║ 221 (+11)                                   ║
+║ Total bugs:              ║ 228 (+18)                                   ║
 ╚════════════════════════════════════════════════════════════════════════╝                                                 
 
 ══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════
@@ -35,6 +35,7 @@
 🔳 The same quests give you different rewards sometimes. Also some quests like Kulu's quest tend to appear multiple times in the same refresh.🟡
 🔳 On login page, if you put in your credentials and press register, it logs you in instead.🟢
 ✅ Can't block users in inbox. The "Disable all messages from user" toggle doesn't work anymore.🔴
+🔳 Free skin notification causes a very evident lag as soon as it appears in-game. The lags stays as long as the popup itself stay.🟡
 🔳 New accounts log out on their own very frequently and randomly. Happens a lot when you close the browser window and open back and go to venge again.🔴
 🔳 Quest claim button in Profile > Quests doesn't work.🟡
 🔳 In Profile > Friend's list, instead of showing the last online time, it shows account creation duration.🟢
@@ -61,6 +62,7 @@ General
 
 🔳 URLs like /?map=MapName and /Spectate:A1B2C3 don't work anymore.🟡
 🔳 When in-game resolution is reduced the HUD and crosshair resolution also reduces with it. This makes text harder to read and crosshair very blurry.🔴
+🔳 Hide Announcements setting does not hide in-game free skin notification popup.🟡
 ✅ After a match ends and you vote for the next map, in the next game there is no hp bar over the enemies when you shoot them.🔴
 🔳 Potions aren't visible in the match until you actually use them once. (use clip from custom sierra)🟡
 🔳 Players get stuck on the instancing spawn point below the map. You cannot find them anywhere on the map terrain. (https://iili.io/HSw4uYx.png)🔴
@@ -72,12 +74,14 @@ General
 🔳 Sometimes when a new enemy spawns for the first time and you place your crosshair on them, they disappear and move to some other spawn point (add clip from half mag bug).🟡
 ✅ Reflectivity problems. Most of the canvas elements are now reflective. Examples- Ground, MineCart, Character, Rocks etc.🟡
 🔳 Charms noclip into the weapon models when moving around, jumping and turning at specific angles. (add clip)🟢
+🔳 Merely switching weapon in-game causes an advertisement to play.🔴
 🔳 For games (mostly guest lobbies while not logged in), you join at about 20-30 seconds remaining. This time should be at least 2-3 minutes remaining always.🔴
 🔳 Censor username setting only hides username on in-game leaderboard. Can still see the username on report list and kill-feed entries. (https://iili.io/HUcnUBe.png)🟡
 🔳 Abilities and Grenade affect own teammates in TDM mode (Mistle).🔴
 🔳 LMG reload time doesn't match the reload countdown on screen when reloading it.🟡
 ✅ Respawning after getting killed takes a very long time (about 10 seconds).🔴
 🔳 Dagger does not have a Rank icon in Gungame anymore.🟢
+🔳 After the in-game reward advertisement is played, the master volume rises to 200% automatically.🔴
 ✅ If you press space while landing on bounce pad it gives you a higher bounce. 🟡
 🔳 Some skins like Valentine M4 and Valentine Sniper are very reflective in-game.🟢
 🔳 FPS drops and ping spikes very evidently when you are positionally closer to enemies🔴
@@ -173,6 +177,7 @@ Heroes : Lilium
 ✅ Only Hammer can de-rank enemies in gungame. This is unfair to Echo and Kulu.🔴
 🔳 Grenade has weird properties. It passes through the ground, sticks to it and bounces off the ground randomly.🟡
 ✅ Grenades can be spam-spawned after Lilium dies (very prominent when playing on a mobile device).🔴
+🔳 Lilium's grenade has no effect if she dies while the grenade is still mid-air.🔴
 
 Heroes : Shin
 
@@ -192,7 +197,7 @@ Heroes : Kulu
 ✅ Egyptian Kulu has a tracer that you can see through walls. (https://iili.io/HS8RzPe.png | https://youtu.be/-UxjE7C83IM)🟢
 🔳 You can use Kulu's Staff anywhere where there is collision. It should only be usable on the ground. (https://iili.io/HUczWEF.png)🟡
 ✅ Totems can be spam-spawned after Kulu dies (very prominent when playing on a mobile device).🔴
-🔳 When anyone in the match dies, the totems deactivate.🔴
+🔳 When anyone in the match dies, or any Kulu in match gets a kill with gun, the totems deactivate.🔴
 🔳 Sometimes the staff doesn't work on sloped grounds. It only works fine on horizontal grounds.🟡
 🔳 Totems can be spawned inside and attached to walls, roofs, water, jars, rocks etc. About anything that's collidable. Should be placeable only on ground.🟡
 🔳 You can use Kulu's totem to climb up walls and high grounds by spamming space bar. (https://youtu.be/y9X80mrOosY)🟡
@@ -234,9 +239,11 @@ Maps
 ✅ Wiki thumbnails are broken.🟢
 🔳 Listed item doesn't get removed from inventory for quite a while after it gets sold.🟡
 🔳 Player search bar on leaderboard is broken. You have to search a name two times to make it appear.🟡
+🔳 Some items are unsellable in the market due to being previously unlockable using adverts in Shop.🔴
 🔳 Clan matches only show last 4 matches played by a member instead of every match played.🟡
 🔳 Account names starting with "#" are not shown on social.venge.io/#[account name].🔴
 🔳 For Medic skin, the skin-type is "Medic" instead of being "EchoSkin". This is also the reason why it doesn't work in-game.🟢
+🔳 If you login through social.venge.io and visit Venge.io, you are not logged in. But you can switch weapons and change heroes while playing as a Guest in-game.🟡
 🔳 All social hub badges are not mentioned in the social hub wiki. (https://iili.io/H4b5MMu.png)🟢
 🔳 You get logged out frequently when you switch back and forth from the "Inventory" tab to the "My Sales" tab. (add clip)🟡
 🔳 Social hub inventory keeps changing order of items randomly. Makes it harder to look for items.🟡
